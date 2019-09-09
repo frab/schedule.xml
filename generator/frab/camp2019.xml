@@ -1,0 +1,2734 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<schedule>
+<generator name='frab' version='0.7'></generator>
+<version>Kaus Australis</version>
+<conference>
+<acronym>Camp2019</acronym>
+<title>Chaos Communication Camp 2019</title>
+<start>2019-08-21</start>
+<end>2019-08-26</end>
+<days>5</days>
+<timeslot_duration>00:15</timeslot_duration>
+<base_url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/</base_url>
+</conference>
+<day date='2019-08-21' end='2019-08-22T04:00:00+02:00' index='1' start='2019-08-21T09:00:00+02:00'>
+<room name='Curie'>
+<event guid='a0a0fcfe-b7fb-46e3-84b6-97a5406016b4' id='10386'>
+<date>2019-08-21T11:00:00+02:00</date>
+<start>11:00</start>
+<duration>00:30</duration>
+<room>Curie</room>
+<slug>Camp2019-10386-opening_ceremony</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10386.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Opening Ceremony</title>
+<subtitle></subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>A hearty welcome me lasses and lads!</abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='7797'>jinxx</person>
+<person id='4827'>smtw</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='c9edea6f-1da1-4772-a0a9-6dd4e33f11bb' id='10365'>
+<date>2019-08-21T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10365-card10_badge</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10365.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>card10 Badge</title>
+<subtitle></subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Introducing you to card10, the 2019 camp badge, bio monitor, wrist worn POV device, and everything else your imagination comes up with.</abstract>
+<description>
+This year&#39;s 0b10nd edition of the camp badge is card10. It comes packed with biosensors and can talk to many devices with BLE (Bluetooth Low Energy). As always with camp badges, it comes with some space to extend it with further electronics and this time a programming interface that is even easier to use, so you can individualize your card10 and pick up some new skills on the way. 
+In this talk, we will tell you more about the technical details of card10, the considerations behind making the new badge, and what card10 taught us on the way to camp.
+You, too, can join us in integrating the badge into 2019 camp life, by creating your own interh4cktions. We will show you how, with some examples of interh4cktions we already know about for inspiration.
+Before you leave to forge your own path through camp2019 with card10 by your side, we will share some highlights from the camp events around card10, how you can keep your finger on the pulse of card10 news, release your card10 interh4cktions to camp, and add your own self organised card10 sessions.
+other card10 devices, probably also your
+
+find out more: https://card10.badge.events.ccc.de/
+FAQ: https://card10.badge.events.ccc.de/en/faq/</description>
+<logo></logo>
+<persons>
+<person id='5339'>schneider</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='24b58c74-2bba-412e-84ac-c206f714f0b7' id='10178'>
+<date>2019-08-21T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10178-hacking_containers_and_kubernetes</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10178.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Hacking Containers and Kubernetes </title>
+<subtitle>Exploiting and protecting containers with a few lines of scripting</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The talks shows the security model of Kubernetes and how to detect and fight security weaknesses with a few lines of scripting.</abstract>
+<description>Hidden under the hood of Kubernetes are a lot of security features. Starting from the Linux namespaces used in containers to the network there are a lot of configurations with many bells and whistles supporting or totally destroying the security of a cluster
+
+The talk gives an overview of the container escape vulnerabilities in the wild, that are documented in the CVE database. Simple scripts are shown to check clusters for vulnerabilities. The scripts are used to analyze Istio, the &quot;trust nothing&quot; distributed firewall solution, and find an exploitable attack immediately. This would be a script kiddie attack, if they already would have started using Kubernetes and Istio.
+
+Finally, it is shown, how Istio has handled the bug report and how future versions from 1.2 will close the exploit using the Container Network Interface (CNI).</description>
+<logo></logo>
+<persons>
+<person id='1382'>Thomas Fricke</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/792/original/Hacking_Containers_and_Kubernetes.pdf?1566398735'>Slides</attachment>
+</attachments>
+</event>
+<event guid='0a99f1db-dfad-4534-888c-bd98acc576b3' id='10309'>
+<date>2019-08-21T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10309-reporting_from_brussels_the_state_of_digital_rights</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10309.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Reporting from Brussels: The state of Digital Rights</title>
+<subtitle>How is our fight impacted by the new EU political landscape?</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Come and find out how digital rights will be impacted by the new European Parliament, European Commission and Brexit. In the process, get updates about the burning topics we are following in the EU institutions. </abstract>
+<description>New European Parliament (EP), new European Commission(EC), possibly Brexit. Nevertheless, the same digital rights we&#39;re fighting for. 
+
+In this talk we will give you an update on what the results of the European Parliament look like, what characterises the new EU Commission and how likely it is that Brexit happens in November 2019. 
+
+More, we&#39;ll update you on the topics we have our eyes on in the EU institutions: the future of content moderation and platform liability in Europe, confidentiality of our communications (ePrivacy), access to data cross-borders by law enforcement, net neutrality, data retention reloaded, algorithms (including upload filters), AI regulation.Finally, we unite the 2 parts: what do the new developments in the EP, EC and Brexity mean for our digital rights fight? How will our rights and freedoms online be impacted by the new environment? Are there new ways and avenues to mobilise and influence policy-making across Europe?
+
+There&#39;s only one way to find out. See you at the talk!</description>
+<logo>/system/events/logos/000/010/309/large/edri_logo.png?1560268483</logo>
+<persons>
+<person id='9013'>Chloé Berthélémy (EDRi)</person>
+<person id='8770'>Andreea Belu (EDRi)</person>
+</persons>
+<links>
+<link href='https://edri.org'>EDRi Website</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='afbc3b87-4156-470d-9385-c18e7b29f97b' id='10174'>
+<date>2019-08-21T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10174-fomu_-_an_fpga_inside_your_usb_port</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10174.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Fomu - an FPGA inside your USB port!</title>
+<subtitle></subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<logo>/system/events/logos/000/010/174/large/fomu.png?1558575164</logo>
+<persons>
+<person id='6660'>Tim &#39;mithro&#39; Ansell</person>
+<person id='4376'>Sean &quot;xobs&quot; Cross</person>
+</persons>
+<links>
+<link href='https://fomu.im'>Fomu Website</link>
+<link href='https://github.com/im-tomu'>Fomu Github</link>
+<link href='https://tomu.im'>Tomu Website</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='f7df9294-6e67-4def-bf45-441663d489f6' id='10186'>
+<date>2019-08-21T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10186-spispy_spi_flash_device_emulation</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10186.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>spispy: SPI flash device emulation</title>
+<subtitle>Open source tools for flash emulation and research</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>&lt;a href=&quot;https://github.com/osresearch/spispy&quot;&gt;spispy&lt;/a&gt; is an open source hardware tool for emulating SPI flash chips that makes firmware development and boot security research easier. In this talk we&#39;ll discuss the challenges of interfacing on the SPI bus and emulating SPI devices, as well as demonstrate how to use it quickly debug issues with coreboot and how we used spispy to discover a critical class of TOCTOU vulnerabilities in secure boot systems like Intel BootGuard.</abstract>
+<description></description>
+<logo>/system/events/logos/000/010/186/large/46016304734_01e1af5c2d_k.jpg?1559458608</logo>
+<persons>
+<person id='4825'>Trammell Hudson</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='074a5ea0-fd00-4529-912c-c986a8856f6b' id='10370'>
+<date>2019-08-21T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10370-aufstand_oder_aussterben_ein_vortrag_uber_die_klimakrise_okologischen_kollaps_und_zivilen_ungehorsam</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10370.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Aufstand oder Aussterben? Ein Vortrag über die Klimakrise, ökologischen Kollaps und zivilen Ungehorsam.</title>
+<subtitle></subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>EXTINCTION REBELLION (XR) ist eine schnell wachsende globale Graswurzel-Bewegung von Klima-Aktivist*innen, die mit gewaltfreien zivilen Ungehorsam einen radikalen Wandel herbeiführen möchte um die Risiken des ökologischen Kollaps und des Aussterbens der Menschheit zu minimieren. Wir bringen die Gefahr des Klimakollaps auf die Agenda, informieren die Öffentlichkeit, und üben Druck auf die Regierungen aus, den Klimanotstand auszurufen, und entsprechend angemessen zu handeln.</abstract>
+<description>XR hat drei Forderungen:
+
+1. TELL THE TRUTH - Die Regierung muss die Wahrheit über die ökologische Krise offenlegen und den Klimanotstand ausrufen. Die Dringlichkeit des sofortigen Kurswechsels muss von allen gesellschaftlichen Institutionen kommuniziert werden. 
+
+2. ACT NOW - Die Regierung muss jetzt handeln, um das Artensterben zu stoppen und die Treibhausgasemissionen bis zum Jahr 2025 auf Netto-Null zu senken.
+
+3. BEYOND POLITICS - Die Regierung beruft eine Bürger&#39;innenversammlung zu Klima- und ökologischer Gerechtigkeit ein, die die notwendigen Maßnahmen erarbeitet und verpflichtet sich, deren Beschlüsse umzusetzen.
+</description>
+<logo>/system/events/logos/000/010/370/large/XR_Symbol_01.jpg?1562757981</logo>
+<persons>
+<person id='9116'>Dan</person>
+<person id='9118'>Maria</person>
+</persons>
+<links>
+<link href='https://rebellion.earth/'>rebellion.earth</link>
+<link href='https://extinctionrebellion.de/'>extinctionrebellion.de</link>
+<link href='https://twitter.com/xrberlin'>twitter.com/xrberlin</link>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/786/original/XR_CCC_2019_Praese_03.pdf?1566384611'>XR_CCCamp19_AufstandOderAussterben_Presentation</attachment>
+<attachment href='/system/event_attachments/attachments/000/003/787/original/XR_CCC_2019_Talk_03.pdf?1566384611'>XR_CCCamp19_AufstandOderAussterben_Text</attachment>
+</attachments>
+</event>
+<event guid='4965ee72-6d7b-4e68-85f7-4d6c4f0c9041' id='10248'>
+<date>2019-08-21T21:00:00+02:00</date>
+<start>21:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10248-the_limits_of_general_purpose_sdr_devices</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10248.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>The Limits of General Purpose SDR devices</title>
+<subtitle>Why an SDR board like a USRP or LimeSDR is not a cellular base station</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>It&#39;s tempting to buy a SDR device like a LimeSDR or USRP family member in the expectation of operating any wireless communications system out there from pure software.  In reality, however, the SDR board is really only one building block.  Know the limitations and constraints of your SDR board and what you need around it to build a proper transceiver.</abstract>
+<description>For many years, there&#39;s an expectation that general purpose SDR devices like the Ettus USRP families, HackRF, bladeRF, LimeSDR, etc. can implement virtually any wireless system.
+
+While that is true in principle, it is equally important to understand the limitations and constraints.
+
+People with deep understanding of SDR and/or wireless communications systems will likely know all of those.  However, SDRs are increasingly used by software developers and IT security experts.  They often acquire an SDR board without understanding that this SDR board is only one building block, but by far not enough to e.g. operate a cellular base station.  After investing a lot of time, some discover that they&#39;re unable to get it to work at all, or at the very least unable to get it to work reliably.  This can easily lead to frustration on both the user side, as well as on the side of the authors of software used with those SDRs.
+
+The talk will particularly focus on using General Purpose SDRs in the context of cellular technologies from GSM to LTE.  It will cover aspects such as band filters, channel filters, clock stability, harmonics as well as Rx and Tx power level calibration.  
+
+The talk contains the essence of a decade of witnessing struggling SDR users (not only) with running Osmocom software with them. Let&#39;s share that with the next generation of SDR users, to prevent them falling into the same traps.</description>
+<logo></logo>
+<persons>
+<person id='1757'>LaForge</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='d8db148c-39e4-4f1e-af23-a26a477c82ee' id='10413'>
+<date>2019-08-21T22:00:00+02:00</date>
+<start>22:00</start>
+<duration>01:30</duration>
+<room>Curie</room>
+<slug>Camp2019-10413-20_jahre_camp</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10413.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>20 Jahre Camp</title>
+<subtitle>die Evolution des Chaos Communication Camps</subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Aus der Gruppe, die 1999 das erste Camp organisiert hat, reden Tim, Andre und Markus über die Verschmelzung von Open-Air- und Hacker-kultur.</abstract>
+<description>Tim hat gemeinsam mit den Pyonen – Andre und Markus – das erste Camp 1999 ins Rollen gebracht. Gemeinsam blicken sie zurück auf die Entstehungsgeschichte des Camps und die besonderen Herausforderungen bei der Planung und Logistik des Events.
+
+Das erste Camp auf einer Pferdewiese in Altlandsberg war für den CCC ein Kraftakt. Aus der Vorlage der niederländischen Camps 1993 (Hacking at the End of the Universe, HEU) und 1997 (Hacking In Progress, HIP) wurde versucht, eine Veranstaltung zu kreieren, die sowohl den Geist des Clubs als auch den schon damals starken Einfluss der damaligen Techno-Open-Air-Szene kombiniert.
+
+Bestärkt durch den erfolgreichen Umzug des Chaos Communication Congress Ende 1998 nach Berlin nahm der Club die Herausforderungen an und entwickelte mit den Pyonen eine fruchtbare Kooperation, bei der jede Gruppe Ihre Stärken ausspielen konnte. Der Club kümmerte sich um Netz und Inhalte, die Pyonen stellten sicher, dass die Produktion der Veranstaltung in sicheren Bahnen verlief.
+
+Am Ende gelang es dem ersten Camp, die Grundlage zu legen für die Veranstaltung, die es heute ist: ein Ort der Freiheit und Kreativität, der dem Spaß am Gerät, der Ästhetik und der Kommunikation den notwendigen Raum bietet.</description>
+<logo>/system/events/logos/000/010/413/large/talk-logo.jpg?1566059026</logo>
+<persons>
+<person id='280'>Markus Ossevorth</person>
+<person id='9152'>Marc-André Janizewski</person>
+<person id='1817'>Tim Pritlove</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Meitner'>
+<event guid='977957d7-ef42-4ea0-8380-b9a48bd583f0' id='10189'>
+<date>2019-08-21T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10189-knoten_101</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10189.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Knoten 101</title>
+<subtitle>Can you knot or can you not ?</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Die CCC-family geht campen, das heisst der Knoten wird ausnahmsweise vom abstrakten mathematischen Konzept zur ganz realen Anwendung von Seil und Schnur. Was da alles schiefgehen kann, wo Knoten herkommen und wer sie verwendet wird hier kurz und knackig bearbeitet.</abstract>
+<description>Knoten sind eines dieser Dinge, die man anwendet bevor man sich bewusst ist was man da gerade tut, und gleichzeitig gibt es so viele verschiedene Knoten die in anderen Umfeldern verwendet werden, dass ein ganzheitlicher Überblick über die Materie kaum zu kriegen ist, nicht zuletzt wegen den horrenden Nomenklaturproblemen. In relativ kurzer Zeit werden hier die gefährlichsten, schlechtesten, praktischsten und unbekanntesten Knoten gezeigt, komplett ohne Mathematik und dergleichen.</description>
+<logo></logo>
+<persons>
+<person id='8875'>Lukas &quot;cube&quot; Hannen</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='97576344-49ba-4fd0-a2e5-9af7923fbffb' id='10235'>
+<date>2019-08-21T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10235-the_great_british_drone_panic</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10235.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>The Great British Drone Panic</title>
+<subtitle>Asking for better standards of official investigation and media reporting into British drone incident stories.</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Looking at the sorry saga of drone incident reports and drone-related airport closures in the UK, and shining a light on the woefully poor quality of official investigations, police response, and media reporting.</abstract>
+<description>Over the last few years the UK has seen a public moral panic over reported air proximity incidents between drones and aircraft, including highly-publicised closures of major airports. This has resulted in ever more stringent rules being proposed for drone and multirotor hobbyists. Unfortunately while there have been a lot of reports and a huge amount of hype, in none of the cases has any tangible evidence or proof been produced. Reading official reports raises only questions about their woeful inadequacy, police responses have been ham-fisted and incompetent, and media reporting has been sensationalist and devoid of factual basis or responsible investigation. This talk is built upon several years of reporting on these stories, and aims to throw some light upon the whole sorry saga.</description>
+<logo></logo>
+<persons>
+<person id='8923'>JennyList</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='02e04525-2163-4080-bc88-f14d3ec30270' id='10375'>
+<date>2019-08-21T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10375-make_your_tech_and_wear_it_too</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10375.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Make Your Tech and Wear It Too</title>
+<subtitle>Stories from an e-textile tailor</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk i’d like to give an introduction to the materials, tools, skills and energies involved in making electronic textiles and tailoring wearable technology, which has been my practice for the past 13 years.</abstract>
+<description>In this talk i’d like to give an introduction to the materials, tools, skills and energies involved in making electronic textiles and tailoring wearable technology, which has been my practice for the past 13 years.
+I would like to demonstrate examples of textile sensors and actuators and explain the technical details involved in both the engineering and crafting of the open source designs which i publish on my website titled How To Get What You Want.
+And i would like to walk through my process of tailoring wearable technology commissions that have been for artistic, prosthetic and research purposes.
+I have many photos and videos to show, not only of the finished works but also of the often messy struggle it takes to get things to work. I can also bring live demonstrations of some of the designs.
+</description>
+<logo></logo>
+<persons>
+<person id='9114'>Plusea</person>
+</persons>
+<links>
+<link href='http://www.kobakant.at'>Kobakant</link>
+<link href='http://howtogetwhatyouwant.at'>How to get what you want </link>
+<link href='http://plusea.at'>Plusea</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='ca6fc2d4-7b9e-4d1c-b90a-8741cf9bb399' id='10213'>
+<date>2019-08-21T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10213-doh_or_don_t</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10213.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>DoH or Don&#39;t</title>
+<subtitle>The dilemma of DNS privacy protocols</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Seldom have DNS protocol changes sparked such fierce debate as happen in the case of DNS-over-HTTPs (Doh) and it&#39;s little cousin, DNS-over-TLS (DoT). While for many people it is a matter of black and white, the reality out there is various shades of grey ;)
+
+This talk will discuss the technical and political aspects of these DNS privacy protocols, where they come from, who is implementing DoH/DoT (both in the browser space and otherwise) and why it is a [good|bad] idea to support these protocol implementations.</abstract>
+<description>Since the Snowden revelations, the &lt;a href=&quot;https://datatracker.ietf.org/wg/dprive/documents/&quot;&gt;DPRIVE (DNS Privacy Exchange) working group&lt;/a&gt; inside the IETF has been working on ways to make DNS, the Domain Name System, leaking less privacy related information (aka metadata).
+
+Two new protocols from this working group are DNS-over-TLS &lt;a href=&quot;https://tools.ietf.org/html/rfc7858&quot;&gt;RFC 7858&lt;/a&gt; (DoT) and DNS-over-HTTPS &lt;a href=&quot;https://tools.ietf.org/html/rfc8484&quot;&gt;RFC 8484&lt;/a&gt; (DoH). Both protocols secure DNS queries between client systems and DNS resolver using encryption and authentication. DoT runs on a dedicated port 853, while DoH piggybacks on HTTPS (port 443).
+
+While DoT was initially mostly ignored by OS vendors, ISPs and users alike, DoH was adopted by browser vendors (Mozilla/Firefox and Google/Chrome) and created heated discussions among security and privacy experts. Even to the point that governments discussing way to outlaw DoH.</description>
+<logo></logo>
+<persons>
+<person id='8916'>Carsten Strotmann</person>
+</persons>
+<links>
+<link href='https://doh.defaultroutes.de'>DOH/DOT Server and Information</link>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/790/original/DoH-or-Dont.pdf?1566397329'>Doh or Don&#39;t slides</attachment>
+</attachments>
+</event>
+<event guid='e1b56229-fb1e-480c-9691-c137ec11ee51' id='10225'>
+<date>2019-08-21T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10225-introduction_to_home_network_security</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10225.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Introduction to (home) network security.</title>
+<subtitle>A beginner-friendly guide to network segmentation for privacy and security in the age of the Internet of Insecure Things.</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Typical home networks use a closed-source Internet Service Provider supplied router/firewall and contain no restrictions on communications between clients within the network. The widespread deployment of network-connected appliances, control systems, lighting, etc, means that this design is insecure. This talk will cover the basics of networking, including why and how segregation of different types of network clients and traffic can be achieved to increase privacy and security.</abstract>
+<description>An introduction to wired and wireless networking aimed at home users, but equally applicable in a business context. We will examine basic network theory, typical designs, threats to privacy and security, and steps to reduce the risks presented by these threats. If you are a networking guru, then this is probably not the talk for you. This talk is for anyone interested in learning more about how a small network operates and things they should consider with regards to privacy and security. Topics to be covered: What is Ethernet; how network devices communicate; what is a broadcast zone; what is a subnet; network layers; physical and logical segregation of network traffic;  basic WiFi theory; basics of firewall and wireless access point security and why running your own is better than letting your ISP do it for you.</description>
+<logo></logo>
+<persons>
+<person id='8952'>Egor</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/789/original/Intro_to_network_security.pdf?1566391211'>Intro to network security - slides</attachment>
+</attachments>
+</event>
+<event guid='7c043172-6fbe-4a23-a990-69c5bcab8f5d' id='10324'>
+<date>2019-08-21T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10324-on_bendy_inflatables_and_travelling_techno</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10324.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>On bendy inflatables and travelling techno</title>
+<subtitle>Or, making hackercamp installations for cheap</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>I’ve made several interactive hackercamp installations over the years. I’ll talk about how they work, how they were made (generally very cheaply), about how people found ways to interact with them, and about what I’ve learned about experience design from them. And about where you can find the source code, obviously.</abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='9002'>Jarkman</person>
+</persons>
+<links>
+<link href='http://jarkman.co.uk/catalog/robots/worldotechno.htm'>World&#39;o&#39;Techno</link>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/788/original/Jarkman_CCCamp19_talk_-_On_bendy_inflatables_and_travelling_techno.pdf?1566390436'>Jarkman_CCCamp19_talk_-_On_bendy_inflatables_and_travelling_techno.pdf</attachment>
+</attachments>
+</event>
+<event guid='a4e27089-dc12-4e83-93c9-8ac5cb8bad6e' id='10286'>
+<date>2019-08-21T21:00:00+02:00</date>
+<start>21:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10286-math_protected_social_interactions</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10286.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Math Protected Social Interactions</title>
+<subtitle></subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>We have learned that Math might be our last defence line against
+a real existing all-encompassing surveillance. One central challenge
+in this conflict is to combine authentication and anonymity.
+Number theory provides us many tools to create really surprising
+technologies for social communication. A lot of these technologies
+have not yet been brought to the world of concrete implementations.
+This has the implication that some ideas which have been presented
+years ago are not covered by patents any more.
+</abstract>
+<description>We have learned that Math might be our last defence line against
+a real existing all-encompassing surveillance. One central challenge
+in this conflict is to combine authentication and anonymity.
+Number theory provides us many tools to create really surprising
+technologies for social communication. A lot of these technologies
+have not yet been brought to the world of concrete implementations.
+This has the implication that some ideas which have been presented
+years ago are not covered by patents any more.
+</description>
+<logo></logo>
+<persons>
+<person id='1545'>ruedi</person>
+<person id='9158'>RND</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/762/original/WeisKirschnerOpenSummit2016AuthAnonymity.pdf?1560249849'>Weis, Kirschner, Authenticated Anonymity by Math </attachment>
+</attachments>
+</event>
+<event guid='045e8a2c-63d0-4335-886e-cbd6323afc73' id='10355'>
+<date>2019-08-21T22:00:00+02:00</date>
+<start>22:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10355-privacy_leaks_in_smart_devices_extracting_data_from_used_smart_home_devices</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10355.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Privacy leaks in smart devices: Extracting data from used smart home devices</title>
+<subtitle></subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Remember the good old fun sport, where people bought random hard drives from ebay and did forensics on them?
+Did you know you can do the same thing with used IoT devices too? Most end-users have no idea what kind of information their devices are storing and how to securely clean their devices (if that even is possible). Lets explore together what the risks are and how we can extract that data.</abstract>
+<description>Many IoT devices collect a lot of data and log files. Of course, most of this data is sent to the Cloud. However, often this data is also stored locally on the device and never deleted in the lifetime of those devices, not even on a factory reset (in contrast to Smart Phones nowadays). This might surprise many people, and especially
+end users might not be aware of that. Due to the design of IoT devices, there is usually no real way, like for notebooks or PCs, for end users to clean the devices before they sell them on eBay or discard them. The devices may hold sensitive information like Wi-Fi credentials, nearby access points, cloud communication log files, maps, or audio samples.
+
+In this talk I will show some examples of interesting IoT devices from various vendors and how to extract the corresponding information.
+We will use software methods (rooting) and hardware methods (flash dumping). Using this information, I will show how I am able to find the original owner of the device.  Also I discuss various challenges and tricks of the methods, and how to prevent this kind of data leakage for yourself.
+</description>
+<logo></logo>
+<persons>
+<person id='7869'>Dennis Giese</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/795/original/CCCamp2019_Final_v2.pdf?1566405433'>Slides in PDF form (animations splitted)</attachment>
+</attachments>
+</event>
+</room>
+</day>
+<day date='2019-08-22' end='2019-08-23T04:00:00+02:00' index='2' start='2019-08-22T09:00:00+02:00'>
+<room name='Curie'>
+<event guid='36b973e6-6203-4506-9317-4959d04ce0d0' id='10400'>
+<date>2019-08-22T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10400-opencodes</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10400.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>OpenCodes</title>
+<subtitle>Hacker im Museum</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Computer können Kunst erzeugen. Museen können Kunst ausstellten. Wie kann das zusammen kommen? Und welche Rolle spielen Community- und OpenSource-Gedanken darin? Der Vortrag ist die Geschichte eines Ausstellungs- und Bildungskonzeptes, welches auch von Hackern entworfen wurde.</abstract>
+<description>Die Ausstellung &#39;Open Codes&#39; wurde zusammen mit Karlsruher Communities, unter anderem dem Entropia, FabLab und Freifunk entworfen und erweitert. Es geht um einen Blick hinter die Kulissen einer Gesellschaft, die immer weiter in das Digitale wandert.
+
+Kostenloser Eintritt, Freifunk-WLAN, Tische, Sofas, Tischtennisplatte, kostenlose Getränke und Snacks, Hackathons, die Gulaschprogrammiernacht, PyCon, Wikimedia usw. lassen einen fast vergessen, dass man in einem Museum steht. Programmieren und hacken im Museum, wie geht das? 
+
+Die Ausstellung ist weit mehr als eine kuratierte Sammlung von Medienkunstwerken, die sich mit dem Thema Code befasst. Es werden auch Themen wie OpenSource und die Hackercommunity greifbar gemacht. Die Werke sind Eckpunkte für Diskussionen, die bereits in Hacker-, Mackerspaces und digitalen Communities passiert. 
+
+Der Vortrag verfolgt den gesamten Weg der letzten drei Jahre: von der ersten Konzeptskizze und Tschunkparties mit Kuratorinnen und Hackern über die Ausstellungseröffnung mit Feldtelefon, Hackcenter und Häppchen, &quot;Bitte nicht hacken, das ist Kunst&quot;-Schildern bis zu einer Lovestory - Still a Better Love Story than Twilight - zwischen zwei Welten, die anders nicht sein könnten. Da dürfen Indien und China auch nicht fehlen...</description>
+<logo>/system/events/logos/000/010/400/large/IMG_2445.jpg?1565303709</logo>
+<persons>
+<person id='4508'>obelix</person>
+</persons>
+<links>
+<link href='https://zkm.de/de/ausstellung/2017/10/open-codes'>Projekwebseite</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='25ea0487-9dc1-4dc6-8df7-75b4872a164c' id='10368'>
+<date>2019-08-22T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10368-beyond_the_pile_of_knobs</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10368.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Beyond the Pile of Knobs</title>
+<subtitle>Redesigning NoScript’s UX</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This case study of NoScript’s UX redesign showcases tried and true design principles that make security tools usable to a wider range of audiences. 
+</abstract>
+<description>Open source security tools are often associated with customizability and transparency: users are given many options (configurations, self-hosting), and system states are more often than not visible to users (detailed connection info, logs). Sometimes, that means bulky user interfaces and technical language, making an otherwise useful and recommended tool less usable for non-technical audiences. This presents a distinct design challenge: is it possible to build tools that are more usable without compromising on customizability and transparency?
+
+In this talk, we will present some UX design principles based on our work with NoScript, a browser extension that allows users to fine-tune their script blocking in Firefox and Chrome/Chromium. We will focus on 1) understanding the value you add for your users, 2) choosing sensible default options, and 3) updating interface language for a wider audience.
+
+In the course of that, we will also present our process of human-centered design for improving security tools. (Outlined here: https://simplysecure.org/what-we-do/usable-security-audit/ )
+</description>
+<logo></logo>
+<persons>
+<person id='8541'>Eileen Wagner</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='0c8f7472-290c-4bdf-bff0-4a7ce16c4f84' id='10181'>
+<date>2019-08-22T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10181-automated_security_testing_for_software_developers_who_dont_know_security</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10181.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Automated security testing for Software Developers who dont know security!</title>
+<subtitle>secure your apps and servers through continuous integration</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>i&#39;ll show how the average developer (like me) can secure their software and systems by automatically checking for known vulnerabilities and security issues as part of their CI-Toolchain.
+The Talk will introduce basic security knowhow, then show how you can use Open Source Frameworks to check for vulnerable dependencies, containers and (web-)APIs in a live demo</abstract>
+<description></description>
+<logo>/system/events/logos/000/010/181/large/cy_klein.png?1558866315</logo>
+<persons>
+<person id='6479'>cy</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf?1566480110'>slides</attachment>
+</attachments>
+</event>
+<event guid='d219432f-68ed-4162-8e7a-1d53a3e3e17c' id='10378'>
+<date>2019-08-22T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10378-fully_open_fully_sovereign_mobile_devices</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10378.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title> Fully Open, Fully Sovereign mobile devices</title>
+<subtitle></subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Removing the barriers to making network independent mobile communications.</abstract>
+<description>In this talk I will discuss our thinking and progress towards making personal mobile communications devices, i.e., things that you use like a smart-phone, but that are fully under the control of the owner.  While this has been done before, we have been focusing on how to make this much easier to do, so that individuals or small teams can create their own custom devices, with whatever features, inclusions and physical form they like, without huge time or cost requirements.  This makes it possible to solve security and privacy problems, and also problems like creating custom devices for people living with disability, so that they can have a device that works for them and with their abilities and needs.
+
+I will discuss our work-in-progress in this area, the MEGAphone, which is not only a mobile phone, but also includes UHF packet radio and a modular expansion scheme, that can allow allow the incorporation of satellite and other communications.  It is also backwards compatible with the Commodore 64, so can already play loads of privacy-preserving games, and has its own open-source slide presentation software that we hope to use to deliver the talk.
+
+Private UHF and VHF radio communications is a complex space, in terms of regulation, which we have some experience in due to the Serval Project, which has informed our design of the MEGAphone.  I will thus discuss issues such as using &quot;license free&quot; bands around the world, as well as options for using either licensed spectrum or existing legacy public spectrum allocations, such as Citizen Band (CB) radio.  As the MEGAphone platform is FPGA based, it is quite possible to implement software defined radio solutions to allow flexible and low-cost access to such spectrum.</description>
+<logo></logo>
+<persons>
+<person id='8890'>Paul Gardner-Stephen</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/799/original/PaulGardner-Stephen_CCC-Camp-Talk-2019.pdf?1566480530'>Presentation Slides</attachment>
+</attachments>
+</event>
+<event guid='e988c76b-3a47-46de-a2c7-77c49a5e731b' id='10238'>
+<date>2019-08-22T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10238-a_mobile_phone_that_respects_your_freedom</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10238.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>A mobile phone that respects your freedom</title>
+<subtitle>Experiences and lessons learned from 2 years of development and still ongoing</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Motivation and challenges building a mobile phone that respects your freedom, privacy and digital rights - and is hackable. This talk will present a summary of a two year journey, which is still ongoing.</abstract>
+<description>Today mobile phones are _the_ computing device of the decade, maybe even of this century. Almost everyone carries one, every day to every place. They are pretty much always connected and we entrust almost our entire digital life to them - any form of communication (voice, text, video), all kinds of entertainment (reading, web surfing, video/movies), personal information (address books, social media), location (navigation, location sharing) etc. Pretty much our entire digital life is mirrored by these devices and to a growing extent happening right on them.
+What is often not fully recognized is that this huge ecosystem of mobile hard- and software is controlled by only a very few globe spanning companies. Our digital life is to a large part controlled by these companies and currently there is little way around them.
+
+This talk will present the experiences we had and have in this industry creating a mobile phone that is running 100% free software, respects the user&#39;s digital rights and gives back full control over data and communication to the user - by separating radios from the main CPU, by providing hardware kill switches and by using only free software for the full stack. We will also talk about the huge challenges encountered, from CPU choice to radio choice up through the software stack. It will also share our approaches to solve these challenges and share experience in working with hardware manufacturing companies (globally), from electronics design to product manufacturing.</description>
+<logo></logo>
+<persons>
+<person id='9031'>Nicole Faerber</person>
+</persons>
+<links>
+<link href='https://puri.sm/products/librem-5/'>Purism Librem 5 product page</link>
+<link href='https://developer.puri.sm/Librem5/'>Librem5 developer information</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='8e743367-04a1-4232-ab03-a54fc210e548' id='10357'>
+<date>2019-08-22T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10357-fangespielen_mit_imsi-catchern</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10357.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Fangespielen mit IMSI-Catchern</title>
+<subtitle>Warum IMSI Catcher schlecht &quot;Verstecken&quot; spielen</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Mobiltelefone hinterlassen aufgrund ihrer Funkaktivität in der Umgebung vielfältige Spuren, die von entsprechendem passiven Equipment aufgespürt und verarbeitet werden kann. Doch um tiefer in die Kommunikation zu schauen, braucht es aktive Netzwerkomponenten – sogenannte IMSI-Catcher oder Stingrays, die den Kontakt zu ihren Zielen direkt suchen und Informationen austauschen.
+
+Doch wenn sich solche hinterhältigen Basisstationen auf die Lauer legen, müssen sie sich zu Erkennen geben – und können erkannt werden. Der Vortrag erörtert technische Hintergründe, verräterische Anzeichen eines Angriffs und was Netzwerkbetreiber und Nutzer dagegen tun können.
+
+Oshie arbeitet seit 4 Jahren an Heuristiken zur Erkennung und Werkzeugen zur Visualisierung von rogue base stations.</abstract>
+<description>Der Vortrag gibt einen Überblick wie IMSI Catcher arbeiten, was sie heutzutage leisten und wie sie dabei beobachtet werden können. Hierbei werden Sicherheitsfeatures der unterschiedlichen Netzgenerationen, von 2g bis 4g, betrachtet und was das konkret für den Einsatz von IMSI Catchern bedeutet. </description>
+<logo></logo>
+<persons>
+<person id='9085'>oshie</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='df91b683-2f32-4400-8043-b1d88aa0b454' id='10211'>
+<date>2019-08-22T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10211-die_5g-uberwachungsstandards</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10211.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Die 5G-Überwachungsstandards  </title>
+<subtitle>Cops Gegen Telekoms im ETSI</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Europol und die nationalen Polizeibehörden laufen Sturm gegen die neuen Überwachungsstandards, die im „European Telecom Standards Institute“ (ETSI) gerade für die 5G-Netze entwickelt werden. Die Telekom-Industrie hatte die Strafverfolger im ETSI überstimmt. Es sei &quot;jetzt wichtig, politischen Druck“ auszuüben, &quot;um die Definition des Standards noch zu beeinflussen“, heißt es in einem internen Schreiben von Anti-Terror-Koordinator Gilles de Kerchove an den EU-Ministerrat. Konkret will man die Terlekoms zwingen, ihre 5G-Netzarchitektur entlang der Bedürfnisse der Strafverfolger auf- und Sicherheitslücken für IMSI-Catcher einzubauen. Der Vortrag schildert den letzten Stand dieser Auseinandersetzung. </abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='5097'>Erich Moechel</person>
+</persons>
+<links>
+<link href='https://fm4.orf.at/stories/2982836/'>EU-Telekoms überstimmten EU-Strafverfolger bei 5G-Überwachung</link>
+<link href='https://fm4.orf.at/stories/2982118/'>EU-Strafverfolger fordern Sicherheitslücken in 5G-Standards</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='d57b03ce-cc47-403d-8d18-c707dcd61bd1' id='10255'>
+<date>2019-08-22T21:00:00+02:00</date>
+<start>21:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10255-caught_in_the_net</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10255.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Caught in the Net</title>
+<subtitle>The Impact of Anti-Extremism Content Regulation on Human Rights</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Increasingly, governments are moving to impose regulatory measures that would require the removal of extremist speech or privatize enforcement of existing laws. But all too often, these regulations infringe on human rights. What should societies be doing to counter extremism while ensuring the rights of the vulnerable are preserved?</abstract>
+<description>Social media companies have long struggled with what to do about extremist content on their platforms. While most companies include provisions about “extremist” content in their community standards, such content is often vaguely defined. Governments increasingly rely on platforms to regulate speech for them, relying on the very same rulesets.
+
+These vague policies, coupled with the practice of for-profit commercial content moderation, has led to mistakes at scale that are decimating human rights content on these platforms and threatening our civil liberties. Furthermore, the very idea that censorship can solve the deeply rooted
+problems of extremism in modern society is a mistake. </description>
+<logo></logo>
+<persons>
+<person id='5001'>Jillian C. York</person>
+</persons>
+<links>
+<link href='https://www.eff.org/wp/caught-net-impact-extremist-speech-regulations-human-rights-content'>Caught in the Net: The Impact of &quot;Extremist&quot; Speech Regulations on Human Rights Content</link>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Meitner'>
+<event guid='d178f21d-4837-4a49-ae27-0f6abf703465' id='10389'>
+<date>2019-08-22T11:00:00+02:00</date>
+<start>11:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10389-hambacher_forst_hambibleibt</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10389.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Hambacher Forst #hambibleibt </title>
+<subtitle>Vom Widerstand gegen Braunkohletagebaue, die Klimakatastrophe und über das Leben in einer Waldbesetzung</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Seit 2012 ist der Hambacher Wald besetzt. </abstract>
+<description></description>
+<logo>/system/events/logos/000/010/389/large/baumhaus.jpg?1565954270</logo>
+<persons>
+<person id='9147'>mynameisnotimportant / hambacher forst</person>
+</persons>
+<links>
+<link href='https://hambacherforst.org'>Hambacher Forst Waldbesetzung</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='117f530f-a20b-4071-b208-39e989a42408' id='10380'>
+<date>2019-08-22T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>03:00</duration>
+<room>Meitner</room>
+<slug>Camp2019-10380-lightning_talks</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10380.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Lightning Talks</title>
+<subtitle></subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='4601'>bigalex</person>
+<person id='8067'>honky</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='28293a80-2dff-433b-8c79-a714ca4e84bc' id='10298'>
+<date>2019-08-22T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10298-taps_transport_services_api</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10298.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>TAPS Transport Services API</title>
+<subtitle>Retiring the BSD Socket API</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In the last year, a group of researchers and some industry people at the IETF decided to join forces and design a replacement of the BSD Socket API. This talk gives an overview about why the BSD Socket API is considered harmful for the Internet&#39;s future and how TAPS tries to solve this problem. Besides the facts, also gives some hints about how standardisation at the IETF works and why all this takes so long…</abstract>
+<description>The BSD Socket API was designed more than 30 years ago. No one back than imagined hosts with multiple access networks, concurrent use of multiple communication protocols, e.g., IPv4 vs IPv6 and TCP/TLS vs QUIC,  and incorporating quality of service (QoS), security and cost constrains for setting up communications. The result is a complex ecosystem of APIs and techniques that must be manually combined in order to write state of the art network applications. 
+
+The talk will give a brief overview on what choices state of the art network applications can make, why the BSD socket API does not support it and how TAPS tries to solve this. I will also talk a little bit about how standardisation at the IETF works, why one may want to get involved and why all this takes so long…</description>
+<logo>/system/events/logos/000/010/298/large/46886733.png?1560262902</logo>
+<persons>
+<person id='4277'>phils</person>
+</persons>
+<links>
+<link href='https://datatracker.ietf.org/wg/taps/documents/'>IETF Transport Services (TAPS) working group</link>
+<link href='https://github.com/fg-inet/python-asyncio-taps'>python-asyncio-taps</link>
+<link href='https://developer.apple.com/documentation/network '>Apple Network Framework </link>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/797/original/TAPS_CCC-Camp_2019.pdf?1566479831'>Talk Slides</attachment>
+</attachments>
+</event>
+<event guid='4f0aca57-b1b1-4cbc-9538-70fb76bf3216' id='10239'>
+<date>2019-08-22T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10239-river_crab_harmony_and_euphemism</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10239.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>River Crab, Harmony and Euphemism</title>
+<subtitle>A Peek at Chinese Online Culture under the Censorship</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>An informative and lighthearted overview of contemporary Chinese online culture </abstract>
+<description>A river crab (Hé Xiè) is a homophone of “harmony”(Hé Xié) in Mandarin Chinese. The word &quot;harmonious society&quot; was brought up by ex-Chinese leader Hu Jintao&#39;s in his speech on signature ideology, which gradually led to the censorship policy that we see nowadays on Chinese internet. The talk will introduce its recent history and status quo of the censorship with actual cases. 
+
+I’ll explain, as a native speaker of Chinese language, the subversive humor and ingenious creativity that Chinese netizens employ to get around the infamous online censorship. The censorship scheme is as bad as portrayed in Western media, however you don’t often see people talk about its inefficiency, if not futility. Due to the complicated nature of Chinese language, the collective intelligence can always quickly come up with many ways- homophones being one of them - to circumvent the existing list of censorship. 
+
+You won’t become a China expert after the talk but your will definitely know a bit more about the linguistic and cultural aspects of the gigantic country than before. </description>
+<logo>/system/events/logos/000/010/239/large/5CDF7372-E94C-4B29-A5AA-CCA482E5ADE6.jpeg?1560114443</logo>
+<persons>
+<person id='8891'>Brusda</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/800/original/river_crabby_copy.pdf?1566497846'>River Crabby</attachment>
+</attachments>
+</event>
+<event guid='acc3dd01-bec3-444f-80c1-5dd37f522aa4' id='10293'>
+<date>2019-08-22T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10293-robotron_-_a_tech_opera</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10293.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Robotron - a tech opera</title>
+<subtitle>Die erste Seifenoper die in der Computerindustrie der DDR spielt. </subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>In den letzten 2 Jahren habe ich mich in meiner künstlerischen Arbeit mit der Computerherstellung in der DDR beschäftigt. Technikproduktion in der DDR war durch Planwirtschaft und dem COCOM-Hochtechnologieembargo besonderen Bedingungen unterworfen. Entlang der künstlerischen Ausseinandersetzung möchte ich in dem Vortrag ein Bild über Ostdeutsche Computertechnologie nachzeichnen.</abstract>
+<description>Die Web Serie Robotron – a tech opera spielt im VEB Kombinat Robotron, dem größten Computerhersteller der ehemaligen DDR und einer der bedeutendsten Produzenten von Informationstechnologie im sozialistischen Osteuropa. Anhand der eigenen Familiengeschichte zeichne ich eine Technikgeschichte nach die heute niemanden mehr interessiert. Weil sie nicht der Logik einer Erfolgsgeschichte entspricht und es sich bereits um obsolete Technik handelt. 
+
+Als zeitgenössisches Netzformat tauchen in den meisten ASMR Videos nur aktuelle High-tech Utensilien auf um Tingles (Kopfkribbeln) hervorzurufen. In Soft Nails ~ ♥ [ASMR] Kleincomputer Robotron KC87 ♥ greife ich bewusst auf High-tech aus der DDR zurück und überführe sie in ein popkulturelles Format. Der Versuch einer gängigen US-amerikanischen Technikerfolgsgeschichte ein alternatives Narrativ entgegensetzen/ hinzufügen.
+
+In der Arbeit The Adventures of WH beschäftige ich mich in Kollaboration mit der Künstlerin Anne Baumann, mit Werner Hartmann (1912 - 1988), mein Stiefopa und der Begründer der Mikroelektronik in Ostdeutschland. Von 1961 – 1974 war er Leiter der AME, auch genannt AMD (Arbeitstelle für Molekularelektronik Dresden). Werner Hartmann gehörte einer wissenschaftlichen Elite in der DDR an und wurde aufgrund seiner Parteilosigkeit seit 1965 in der DDR systematisch beschattet und sogar 1974 wegen Spionage-Vorwürfen als Direktor der Arbeitsstelle für Molekularelektronik in Dresden suspendiert. Die Stasi hat 49 Ordner zur Überwachung von WH angelegt. Parallel legte WH ein Archiv mit seinen Memoiren (wissenschaftl. Tätigkeit in der Nazizeit, Sowjetunion und der DDR) sowie seinen Gedanken zur Mikroelektronik, u.a. an.</description>
+<logo>/system/events/logos/000/010/293/large/Robotron-a_tech_opera.gif?1560260229</logo>
+<persons>
+<person id='7830'>Nadja Buttendorf</person>
+</persons>
+<links>
+<link href='http://nadjabuttendorf.com/'>artists website</link>
+<link href='https://www.youtube.com/watch?v=SAVEQbWXwzs&amp;list=PLqjISv13g0qqmBFCW4lHb6LPOtRHgqqFA'>Robotron - a tech opera SEASON 01</link>
+<link href='https://www.youtube.com/watch?v=9bYr49YmII0&amp;list=PLqjISv13g0qq-z448vt2besIeZ5MZzRKx'>Robotron - a tech opera SEASON 02</link>
+<link href='https://www.youtube.com/watch?v=VD6-EUuUzN4&amp;feature=youtu.be'>Soft Nails ~ ♥[ASMR] Kleincomputer Robotron KC87 ♥</link>
+<link href='https://www.youtube.com/watch?v=7sJbCCgpm2Y'>The Adventures of WH - Kapitel 1: Diskriminator (exhibition view)</link>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/768/original/RobotronKC87-softnails-asmr-buttendorf.gif?1560260230'>RobotronKC87-softnails-asmr-buttendorf.gif</attachment>
+<attachment href='/system/event_attachments/attachments/000/003/769/original/Robotron-a_tech_opera_SEASON02-2.png?1560260230'>Robotron-a_tech_opera_SEASON02-2.png</attachment>
+</attachments>
+</event>
+<event guid='9b7f0485-2ff1-4302-b1b7-98cbc8b502f4' id='10288'>
+<date>2019-08-22T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10288-500_000_recalled_pacemakers_2_billion_stock_value_loss</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10288.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>500.000 Recalled Pacemakers, 2 Billion $ Stock Value Loss</title>
+<subtitle>The Story Behind</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>During an independent security assessment of several pacemaker vendors multiple lethal and highly critical vulnerabilities were found. Based on previous experience with one specific vendor a new way of monetising vulnerabilities has been chosen. After going public a huge discussion on vulnerability disclosure ethics and responsibilities began. The stock value of the affected vendor dropped by 2 billion dollar just in one single day. The security researchers got discredited and a huge lawsuit was started. After a year of mutual accusations and denial more than 500.000 pacemakers got recalled. This talk will provide insights into pacemaker security and share first-hand experience gathered during this project. A special focus will also be on ethical vulnerability disclosure and lessons learned for future security research.</abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='9063'>Tobias Zillner </person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='8dc5712b-c14d-4aa0-9aa2-e598bbfc6a6d' id='10334'>
+<date>2019-08-22T21:00:00+02:00</date>
+<start>21:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10334-anykernels_meet_fuzzing</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10334.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Anykernels meet fuzzing</title>
+<subtitle>how to make NetBSD a better software for you and me</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Battle of making the NetBSD better software by leveraging anykernels</abstract>
+<description>The NetBSD offers RUMP anykernel which lets users to do the magic and execute drivers, network stacks or file systems in userspace. Having kernel parts running in user space is a great opportunity to fuzz them efficiently without fancy kernel approaches. First general information about RUMP will be discussed to get the audience familiar with the subject, then results focused on testing network stack will be presented along with encountered problems and other fuzzing efforts that currently are taking place in the NetBSD project.</description>
+<logo></logo>
+<persons>
+<person id='9049'>Akat1 Majorana</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='5337766f-3676-4a2a-b1f6-4bd66b4d71af' id='10292'>
+<date>2019-08-22T22:00:00+02:00</date>
+<start>22:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10292-tales_from_hardware_security_research</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10292.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Tales from Hardware Security Research</title>
+<subtitle>From Research over Vulnerability Discovery to Public Disclosure</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Almost every microcontroller features firmware readout protection. It aims at securing the code, algorithms, and cryptographic keys against unauthorized access. Despite datasheets are promising strong security, our research shows that this is often far from being true. In this talk we want to shed light onto the &quot;why?&quot; and especially &quot;how?&quot; we approach the security testing of such protection mechanisms. Furthermore, we will talk about our attempts, discussions, and hassles from the vulnerability disclosure process - from successful ones to dead ends.</abstract>
+<description>Since several years, we, Johannes and Marc, do practical research in the field of embedded system security at a research institute. In this talk, we want to give an insight into the daily work as hardware security researchers. This ranges from giving recommendations on how to secure systems up to verifying microcontroller security in real environments. However, no practical experience and information on the resilience of common microcontrollers is publicly available - a gap we want to close. Especially when trying to make use of the integrated security features, their effectiveness often collapses quickly due to design weaknesses.
+
+Our focus lies on firmware protection mechanisms since they often are the root of security in embedded systems.
+During our research we were able to circumvent several mechanisms implemented from different manufacturers.
+In most cases, each attack requires only low-priced equipment, thereby increasing the impact of each weakness and resulting in a severe threat altogether.
+We will present one of those attacks, which can be performed within minutes, on stage.
+
+Due to the severe impact of these results, we immediately informed the manufacturers in a coordinated disclosure process.
+However, this is often not as simple as expected and maybe even risky.
+In this talk we will shortly state the chosen approach and will then compare our expectations on coordinated disclosure with the real reactions of the addressed manufacturers - ranging from a friendly discussion, over tricking-into-NDA, up to ghosting.
+
+Finally we will give some ideas on how to read between the lines in datasheets. Additionally, we will outline the legal gray area of applied security research in academia.</description>
+<logo>/system/events/logos/000/010/292/large/controller-leak.svg.png?1565451988</logo>
+<persons>
+<person id='9019'>Johannes</person>
+<person id='9092'>marc</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='ed4b6c75-14f4-49fe-a11e-3762bd6b54e3' id='10344'>
+<date>2019-08-22T23:00:00+02:00</date>
+<start>23:00</start>
+<duration>01:30</duration>
+<room>Meitner</room>
+<slug>Camp2019-10344-achtung_datenpannen</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10344.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Achtung, Datenpannen!</title>
+<subtitle>Die große Datenschutz- und DSGVO-Show</subtitle>
+<track>Entertainment</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>&lt;p&gt;Eine Mischung aus einem Vortrag und einer Spiel- und Lernshow rund um die Datenschutz-Grundverordnung, die spielerisch Wissenswertes rund um Datenschutz und die Datenschutz-Grundverordnung vermittelt – anhand von tatsächlichen Beratungsanfragen und Datenpannen-Meldungen, die tagtäglich bei den Aufsichtsbehörden eingehen. Im Stil der Spielshow „Der Große Preis“ stehen Kandidaten Rede und Antwort zu skurrilen Fällen und heiß diskutierten Problemen rund um Datenschutz, technischen Maßnahmen und die DS-GVO.&lt;/p&gt;
+</abstract>
+<description>&lt;p&gt;Bei Diskussionen über Datenschutz kommen technische Maßnahmen aus dem Bereich der IT-Sicherheit bisher oftmals viel zu kurz. Dabei können fehlende oder falsch implementierte Maßnahmen Sanktionen der Aufsichtsbehörden nach sich ziehen.&lt;/p&gt;
+&lt;p&gt;Die große &lt;strong&gt;Datenschutz- und DSGVO-Show&lt;/strong&gt; vermittelt auf spielerische Weise rechtliche, technische und praktische Hilfe rund um Datenschutz und die EU-Datenschutz-Grundverordnung. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welche Verschlüsselungs-Verfahren muss ein Datenverarbeiter verwenden, um kein Bußgeld zu riskieren?&lt;/li&gt;
+&lt;li&gt;Erfüllt ein verschlüsselter ZIP-Anhang in einer E-Mail die Anforderungen der DS-GVO auf „Sicherheit der Verarbeitung“?&lt;/li&gt;
+&lt;li&gt;Oder die „bisher ungeknackte Vollbitverschlüsselung“?&lt;/li&gt;
+&lt;li&gt;Ist ein Messenger-Dienst „sicher“, wenn er Telefonnummern als SHA-256-Hash speichert?&lt;/li&gt;
+&lt;li&gt;Muss ein Online-Shop wirklich alle Kunden informieren, wenn „ein Hacker“ erfolgreich „nur die E-Mail-Adressen der Kunden“ kopiert hat?&lt;/li&gt;
+&lt;li&gt;Und was ist mit Google Analytics oder Facebook-Plugins auf Websites?&lt;/li&gt;
+&lt;li&gt;Welche Rechte hat ein Betroffener gegenüber Datenkraken?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Die Moderatoren sind der &lt;em&gt;Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg&lt;/em&gt; Stefan Brink und zwei Referenten und berichten aus der praktischen Arbeit einer Aufsichtsbehörde. Vor und während dem eigentlichen Quiz geben sie eine kurze Einführung über häufige Datenpannen-Meldungen, rechtliche Grundlagen, Hinweise zu technischen Maßnahmen nach Artikel 32 DS-GVO und die oftmals schwierige Risikoabschätzung.&lt;/p&gt;
+
+&lt;p&gt;Im Quiz selbst müssen die Kandidaten in ihren Antworten praktische Lösungsvorschläge für häufige technische und rechtliche Probleme vorschlagen, zum Beispiel welche technischen Maßnahmen bei bestimmten Datenpannen nach dem „Stand der Technik“ angebracht sind, ob man als Website-Betreiber denn nun Google Analytics nutzen darf oder wie man sich gegen rechtswidrige Datensammler wehrt. Dadurch können Teilnehmer wie Zuschauer die praktische Anwendung der DS-GVO spielerisch lernen.&lt;/p&gt;
+</description>
+<logo>/system/events/logos/000/010/344/large/dsgvo-pannen-show-logo-quadrat.jpg?1560288198</logo>
+<persons>
+<person id='4555'>Alvar C.H. Freude</person>
+<person id='9127'>Stefan Brink</person>
+</persons>
+<links>
+<link href='https://www.baden-wuerttemberg.datenschutz.de'>LfDI Baden-Württemberg</link>
+<link href='https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2019/04/FAQ-zu-Cookies-und-Tracking.pdf'>FAQ zu Cookies und Tracking </link>
+<link href='https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2019/02/Hinweise-zum-Umgang-mit-Passwoertern-1.0.1.pdf'>Hinweise zum sicheren Umgang mit Passwörtern</link>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+</day>
+<day date='2019-08-23' end='2019-08-24T04:00:00+02:00' index='3' start='2019-08-23T09:00:00+02:00'>
+<room name='Curie'>
+<event guid='ca134284-32df-48e0-b811-42c79dc71fa0' id='10285'>
+<date>2019-08-23T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10285-nachhaltige_blockchains</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10285.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Nachhaltige Blockchains</title>
+<subtitle> statt Digital und Dreckig</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Erfolg der kryptographischen Währung Bitcoin, zu einer der
+  meistdiskutierten &quot;neuen&quot; Technologien entwickelt. Der sehr schnelle
+  Aufstieg von Bitcoin hat viele Problemstellungen zum verteilten
+  Vertrauensmanagement, dem Energieverbrauch und dem Schutz der
+  Privatsphäre von interessanten Forschungsfragen zu wichtigen
+  Herausforderungen für eine nachhaltige wirtschaftliche und
+  gesellschaftliche Entwicklung werden lassen. Wir diskutieren, wie wir
+  mit recht überschaubaren mathematischen Verbesserungen für weniger
+  umweltschädliche, weniger sich zentralisierende und
+  datenschutzfreundliche Systeme sorgen können. </abstract>
+<description>  Innerhalb weniger Jahre haben sich Blockchains, insbesondere durch den Erfolg der kryptographischen Währung Bitcoin, zu einer der
+  meistdiskutierten &quot;neuen&quot; Technologien entwickelt. Der sehr schnelle
+  Aufstieg von Bitcoin hat viele Problemstellungen zum verteilten
+  Vertrauensmanagement, dem Energieverbrauch und dem Schutz der
+  Privatsphäre von interessanten Forschungsfragen zu wichtigen
+  Herausforderungen für eine nachhaltige wirtschaftliche und
+  gesellschaftliche Entwicklung werden lassen. Wir diskutieren, wie wir
+  mit recht überschaubaren mathematischen Verbesserungen für weniger
+  umweltschädliche, weniger sich zentralisierende und
+  datenschutzfreundliche Systeme sorgen können.
+</description>
+<logo></logo>
+<persons>
+<person id='1545'>ruedi</person>
+</persons>
+<links>
+<link href='https://www.deutschlandfunk.de/blockchain-stories-5-digital-und-dreckig.807.de.html?dram:article_id=435999'>Deutschlandfunk: Digital und dreckig</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='823efec2-9c83-45d6-bec9-6a07db561cc2' id='10367'>
+<date>2019-08-23T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10367-zombie_apocalypse_vs_international_health_regulations</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10367.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Zombie Apocalypse vs. International Health Regulations</title>
+<subtitle>Introducing a very important piece of international law and how to circumvent it</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The little known International Health Regulations are Earth&#39;s last defence line against world-wide health risks. I discuss how they would perform during a Zombie Apocalypse.</abstract>
+<description>The International Health Regulations (IHR) are a piece of legally binding, international law that (theoretically) all countries have to adhere to. After the catastrophic 2003 SARS outbreaks, unlikely partners such as the USA and Iran, together with 192 other member states of the World Health Organisation, agreed upon these rules that entered into force in 2007. This set of rules aims to prevent international spread of health risks (usually communicable diseases) while balancing international travel and, of course, trade. 
+I will use the popular Zombie Apocalypse metaphor to illustrate the various prevention mechanisms of the IHR and how they were (and will be) circumvented by past and future epidemics. 
+</description>
+<logo></logo>
+<persons>
+<person id='1408'>florian</person>
+</persons>
+<links>
+<link href='http://www.burckhardt.de/zombies-vs-ihr.zip'>Link to pdf&amp;pptx (zip)</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='a9b096f5-3db7-4c83-af7c-289afa1d886c' id='10340'>
+<date>2019-08-23T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10340-updates_from_the_onion</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10340.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Updates from the Onion</title>
+<subtitle>The Road to Mobile Tor and Improved Censorship Circumvention</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The Tor Project is building usable free software to fight surveillance and censorship across the globe. In this talk we&#39;ll give an update on what we have been up to in the past months, what happened in the wider Tor ecosystem, and what lies ahead of us.</abstract>
+<description>In the last year the Tor Project has been working hard on improving the software, building and training communities around the world as well as creating an anti-censorship team and roadmap that can push forward technologies to circumvent censorship. This talk will cover major milestones we achieved and will give an outline about what is lying ahead. In particular, we&#39;ll talk about the release of Tor Browser for Android and restructuring our anti-censorship efforts as well as working on next generation pluggable transports. Moreover, we&#39;ll explain our defense against website traffic fingerprinting attacks and plans for improving onion services and making them more usable (DDoS resistance, better user interfaces for authentication and dealing with errors). Finally, we&#39;ll shed some light on efforts to get Tor support directly embedded into other browsers, like Firefox and Brave, and educating users both by reorganizing the content on our website and extensive trainings throughout the world.</description>
+<logo></logo>
+<persons>
+<person id='7805'>GeKo</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='ffe2c816-e1d4-4457-8a2d-6c953cc3de17' id='10195'>
+<date>2019-08-23T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10195-neue_europaische_uberwachungslandschaft</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10195.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Neue europäische Überwachungslandschaft</title>
+<subtitle></subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Mit neuen Verordnungen und Richtlinien wachsen in der Europäischen Union weitere Datentöpfe heran. Internetanbieter sollen außerdem Inhalte entfernen und Telekommunikationsdaten auf Verlangen herausgeben. Auch der Kreis der Zugriffsberechtigten wird deutlich erweitert. Ganz legal könnten sogar US-Behörden bald in Europa Abhören dürfen.</abstract>
+<description>Unter dem Stichwort „Interoperabilität“ vernetzt die Europäische Union ihre großen Datenbanken im Bereich Justiz und Inneres. Der Beschluss fiel bereits, nun steht die Umsetzung an. Fingerabdrücke und Gesichtsbilder werden in einem „gemeinsamen Identitätsspeicher“ abgelegt und mit einem „Europäischen Suchportal“ prozessiert. Mit dem Projekt wird der polizeiliche Datenverkehr drastisch steigen, allein Europol rechnet mit 100.000 täglichen Abfragen seiner Dateien.
+Im Herbst, wenn sich das neue Parlament konstituiert hat, will die EU außerdem den Zugriff auf elektronische Beweismittel auf drei Wegen vereinfachen. Die „E-Evidence“-Verordnung“ soll die polizeiliche Abfrage von Daten bei Internetfirmen in anderen EU-Staaten unter Androhung hoher Bußgelder drastisch erleichtern. Für Firmen mit Sitz in den USA plant die EU-Kommission ein Durchführungsabkommen im Rahmen des „CLOUD Act“, den die US-Regierung erlassen hat. Dann können auch US-Behörden Daten von Sozialen Netzwerken oder Messengern in Europa abfragen, möglich wäre sogar das Abhören in Echtzeit. Zusätzlich verhandelt auch der Europarat über die schnelle Herausgabe elektronischer Beweismittel. Die „Budapest-Konvention“ zur Kooperation bei Computerstraftaten soll um eine „Sicherungsanordnung“ erweitert werden.
+Ebenfalls auf der Tagesordnung stehen die weiteren Verhandlungen für eine Verordnung zur „Verhinderung der Verbreitung terroristischer Online-Inhalte“. Hierzu sollen die Strafverfolgungsbehörden Anordnungen erlassen, denen innerhalb einer Stunde entsprochen werden muss. Die Firmen sollen außerdem Uploadfilter („automatisierte Werkzeuge“ gegen erneutes Hochladen) installieren. Auch das BKA beteiligt sich an den Vorbereitungen mit einer „nationalen Meldestelle“, die seit ihrem kurzen Bestehen bereits 6.000 Meldungen zur Entfernung von Inhalten verschickt hat.
+Schließlich arbeitet die EU an einer Neuauflage der Vorratsdatenspeicherung von Telekommunikationsdaten. Im Juni haben die Innenminister hierzu Schlussfolgerungen erlassen, die den Fahrplan vorgeben. Zwar ist die Rede von einer „beschränkten“ Vorratsdatenspeicherung. Tatsächlich wollen die Polizeien und Geheimdienste aber nur auf wenige Informationen verzichten, darunter die Länge genutzter Antennen, die Verbindungsqualität oder die Zahl der Klingeltöne des genutzten Telefons. Auch Berufsgeheimnisträger werden anlasslos überwacht, außer sie stellen einen Antrag auf Befreiung.
+Längst beschlossen und umgesetzt ist die EU-Richtlinie zur Speicherung von Fluggastdaten. Airlines, Reisebüros und andere Reiseanbieter müssen vor jedem internationalen Flug „Passenger Name Records“ (PNR) an die zuständige Fluggastdatenzentralstelle übermitteln. Allein in Deutschland werden in den nächsten Monaten 500 neue Stellen bei BKA, Bundespolizei, Zoll und Verwaltungsamt besetzt. Diese ufer- und anlasslose Vorratsdatenspeicherung ist ein gutes schlechtes Beispiel, weshalb den noch zu beschließenden EU-Vorhaben entschlossen entgegengetreten werden muss.</description>
+<logo></logo>
+<persons>
+<person id='8990'>Matthias Monroy</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='f650773d-d9df-4050-814c-a9505c439b30' id='10201'>
+<date>2019-08-23T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10201-mit_dem_getrankeautomaten_in_die_cloud</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10201.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Mit dem Getränkeautomaten in die Cloud</title>
+<subtitle>Über die (Un-)Sicherheit eines Bezahlsystems</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Ob an Getränkeautomaten oder in der Kantine: Oft wird in Universitäten oder großen Firmen mit einem internen Ausweis bezahlt.
+Wir haben eines dieser internen Bezahlsysteme einmal genauer in Bezug auf seine IT-Sicherheit untersucht und dabei überraschend viele Schwachstellen festgestellt.</abstract>
+<description>Interne, bargeldlose Bezahlsysteme können Transaktionen über einen Cloud-Dienst abwickeln.
+Die Informationssicherheit ist bei diesen Systemen von großer Bedeutung, um das Geld der Kunden und auch das Geld des Betreibers, der für die Abwicklung der Zahlung an die jeweiligen Abteilungen oder Dienstleistern die Verantwortung trägt, zu schützen.
+In diesem Talk soll die Sicherheit eines dieser Cloud-basierten Systeme genauer beleuchtet und dabei ein Großteil seiner Sicherheitsarchitektur auseinandergenommen werden.</description>
+<logo></logo>
+<persons>
+<person id='8906'>Janis Streib</person>
+</persons>
+<links>
+<link href='https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18292'>CVE-2018-18292</link>
+<link href='https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18293'>CVE-2018-18293</link>
+<link href='https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18294'>CVE-2018-18294</link>
+<link href='https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18295'>CVE-2018-18295</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='f9196061-da41-448d-8e7a-da0a6f8ad63a' id='10252'>
+<date>2019-08-23T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10252-megapixels_face_recognition_training_datasets</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10252.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>MegaPixels: Face Recognition Training Datasets</title>
+<subtitle>Origins, Ethics, and Individual Privacy Implications of Face Recognition Training Datasets</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This talk will present the MegaPixels project, a website and resource for exploring face recognition training datasets. MegaPixels is an art and research project about the growing crisis of authoritarian biometric surveillance technologies and how data, often originating from social media, has unwittingly contributed to its growth.</abstract>
+<description>While most face recognition training datasets include images of celebrity faces, many more include everyday images from Flickr, YouTube, or even CCTV footage from cities and campuses. This talk will survey existing face recognition datasets on the megapixels.cc site and present a new investigation revealing the use of CCC videos in a face recognition training dataset created and distributed by a US Government agency. The investigation will show who is using the dataset, where it&#39;s being used, and what kind of surveillance technologies these images are unwittingly contributing to.
+
+MegaPixels is developed by:
+Adam Harvey / &lt;a href=&quot;https://ahprojects.com&quot;&gt;ahprojects.com&lt;/a&gt;
+Jules LaPlace / &lt;a href=&quot;https://asdf.us&quot;&gt;asdf.us&lt;/a&gt;</description>
+<logo>/system/events/logos/000/010/252/large/Screen_Shot_2019-06-10_at_12.11.03_PM.png?1560163476</logo>
+<persons>
+<person id='7024'>Adam Harvey</person>
+</persons>
+<links>
+<link href='https://megapixels.cc'>MegaPixels.cc</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='06bcc268-f0db-48dc-963d-d3d54c6769a8' id='10241'>
+<date>2019-08-23T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10241-taking_bluetooth_lockpicking_to_the_next_level</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10241.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Taking Bluetooth lockpicking to the next level</title>
+<subtitle>...or the 37th floor of a Hotel</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>If hacking chinese padlocks and bike sharing systems isn&#39;t enough any more, let&#39;s go and open some new doors. Like the ones of some 37th floor Hotel Suites...</abstract>
+<description>We&#39;re taking Bluetooth LE hacking from toys and padlocks to the real world. Improving the tools and methods we used in previous research to break the AES cryptography of the NOKE Padlock, we went to do the one thing a mobile hotel key is supposed to prevent: wirelessly sniff someone entering his room - or just unlocking the elevator - and then reconstruct the needed data to open the door with any BTLE enabled PC or even a raspberry pi.
+
+In this talk we will show and explain the tools and methods we used and developed to break the BTLE based mobile phone key system of a large hotel chain. And then come from the academic proof of concept to a reliable setup that can be used in real life scenarios to carry out the attack.
+
+Methods shown will cover the reverse engineering of the wireless protocol based on BTLE captures, analyzing phone apps and intercepting the TLS encrypted traffic to the back end API, which in combination led to the compromise of a system used in quite some big and expensive hotels for their &quot;next level&quot; customer experience: mobile room keys.</description>
+<logo>/system/events/logos/000/010/241/large/rayhotel3.jpg?1560128079</logo>
+<persons>
+<person id='9037'>Ray</person>
+<person id='3683'>mh</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/805/original/Published_Slides_Taking-Bluetooth-lockpicking-to-the-next-level.pdf?1566570969'>Presentation Slides</attachment>
+</attachments>
+</event>
+<event guid='9e141f51-1fd3-482b-8af8-92f7f65653f7' id='10226'>
+<date>2019-08-23T21:00:00+02:00</date>
+<start>21:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10226-introduction_to_mix_networks_and_katzenpost</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10226.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Introduction to Mix Networks and Katzenpost</title>
+<subtitle>a new anonymity movement</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This talk will introduce the fundamental concepts of mix networks as
+well as the Katzenpost mix network free software project. We are not
+just implementing a new mix network but starting a new anonymity
+movement and we welcome others to join us! Like Tor, mix networks
+protect metadata by using layered encryption and routing packets
+between a series of independent nodes. Mix networks resist vastly more
+powerful adversary models than Tor though, including partial defense
+against global passive adversaries. In so doing, mix networks add both
+latency and cover traffic. I shall outline the basic components of a
+mix network, touch on their roles in resisting active and passive
+attacks. In particular I&#39;ll mention how mix networks can be used with
+encrypted messaging applications and crypto currency to resist global
+network surveillance and traffic analysis.
+</abstract>
+<description>Academics have proposed various anonymity technologies with far
+stronger threat models than Tor, but by far the most practical and
+efficient option remains mix networks, which date to the founding of
+anonymity research by David Chaum in 1981. Tor was inspired by mix
+networks and shares some superficial similarities, but mix networks&#39;
+are vastly stronger if they judiciously add latency and decoy traffic.
+
+There are several historical reasons why mixnets lost popularity and
+why Tor&#39;s onion routing won. Namely, Tor is low latency and can be
+used to browse the web. This is in contrast to mix networks which are
+essentially an unreliable packet switching network. Historically mix
+networks achieved enough mix entropy by using long delays whereas it
+is becoming more widely understood that there exists a trade off
+between legit traffic, decoy traffic and latency. After this
+introduction to mix networks I&#39;ll talk a bit about the Katzenpost mix
+network software project which is based off of the recently published
+academic paper &quot;The Loopix Anonymity System&quot;. These new insights into
+mix network designs allow modern mix networks to make the correct
+design trade offs so that we can keep the latency relatively
+low. Historically high latency and unreliability has been a major
+obstacle to mass adoption. I shall explain how Katzenpost solves both
+of these problems and allows developers to easily add network services
+to the mix network to support a wide variety of client applications
+including but not limited to: encrypted messaging, crypto currency
+transaction transport, offline browsing and, transporting client
+interactions with Distributed Hash Tables and Conflict Free
+Replicating Data Types et cetera.
+</description>
+<logo>/system/events/logos/000/010/226/large/katzenpost_logo.png?1559993635</logo>
+<persons>
+<person id='7790'>David Stainton</person>
+<person id='3988'>mo</person>
+</persons>
+<links>
+<link href='https://katzenpost.mixnetworks.org/'>Katzenpost website</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='7926f5ba-d424-4523-890b-08736b08a9b9' id='10208'>
+<date>2019-08-23T22:00:00+02:00</date>
+<start>22:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10208-defensive_statt_offensive_am_beispiel_von_kritis</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10208.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>#Defensive statt #Offensive am Beispiel von KRITIS</title>
+<subtitle>aka Ethik rekalibrieren</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Es wird in einer aktuellen Übersicht aufgezeigt, dass die Cybersicherheitsstrategie in Deutschland keine Strategie darstellt. Darüber Hinaus wird aufgezeigt, welche Gesetzesvorhaben die Sicherheit schwächen oder bereits geschwächt haben und was das für Auswirkungen auf kritische Infrastrukturen (KRITIS) - und somit auf uns als Gesamtbevölkerung - haben kann. Zuletzt werden mögliche Optionen als Forderungen aufgezeigt, durch die sich das aktuelle Lagebild bessern kann.</abstract>
+<description>Neun Sektoren wurden in den ersten zwei Körben des IT-Sicherheitsgesetz als kritische Infrastrukturen definiert. Darunter fallen Energieversorgung, Finanz- und Versicherungswesen,
+Wasser, Ernährung, Gesundheit, IT und TK, Transport und Verkehr. Deren durch IT-Störungen bedingter Versorgungsausfall kann zu einem Großlagebild oder sogar zu einer Krise führen, in der eine Versorgung eines großen Teils der Bevölkerung nicht mehr gewährleistet werden könnte. Wie riskiert der Staat durch eine offensive Cyberwar Vorgehensweise und hybride Kriegsführung dazu, diese Risiken zu erhöhen und warum trifft uns das als Bevölkerung ganz konkret und spielt sich nicht nur im Internet ab? Wie kann es zu physischen IT-Störungen und Ausfällen kommen und was müsste man als Forderungen dagegen vornehmen, um von einer offensiven zu einer defensiven Vorgehensweise zurück zu kommen. Und wieso liegt darin die einzig wahre Lösung für die Bevölkerung?</description>
+<logo>/system/events/logos/000/010/208/large/KRITIS_Sektoren.jpeg?1563712264</logo>
+<persons>
+<person id='1294'>HonkHase</person>
+</persons>
+<links>
+<link href='https://www.blablasecurity.de/'>Folien zu bereits gehaltenen KRITIS und Ethik Vorträgen</link>
+<link href='https://www.blablasecurity.de/20190601_Berlinsides_HonkHase.pdf'>Zum Zeitpunkt der Einreichung aktuellster Foliensatz zum Thema</link>
+</links>
+<attachments>
+<attachment href='/attachments/original/missing.png'>file</attachment>
+</attachments>
+</event>
+</room>
+<room name='Meitner'>
+<event guid='b4e3314b-cab3-4eb4-b69a-49c461bcc30c' id='10438'>
+<date>2019-08-23T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10438-fusionbleibt</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10438.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>#Fusionbleibt</title>
+<subtitle>Wie das Fusion Festival sich erfolgreich gegen anlasslose Polizeipräsenz wehren konnte.</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Polizeiwache mitten auf dem Festival? Wasserwerfer? Räumpanzer? WTF?? dachte sich da auch das Fusion Festival. Der Kampf gegen die absurden Pläne von Polizeipräsident Nils Hoffmann-Ritterbusch konnte zum Glück gewonnen werden. Und ist ein Lehrstück dafür, dass zivilgesellschaftlicher Druck eben doch Berge versetzen kann. Wir lassen Drohungen, Protest und Absurditäten aus diesem Lehrstücks gemeinsam Revue passieren. Und ja: es darf gelacht werden.</abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='5261'>Stefan Pelzer</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='7d8aff66-f15e-4fdd-b5aa-af555f7a626f' id='10207'>
+<date>2019-08-23T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10207-domain_computers_have_accounts_too</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10207.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Domain computers have accounts, too!</title>
+<subtitle>Owning machines through relaying and delegation</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In Microsoft Active Directory, computers also have their accounts. We used to consider them useless when they turned up during pentests, but recent research showed that successfully relaying a machine account can actually lead to completely owning the machine. This talk will explain the foundation of such attacks and end with a demonstration of how a non-privileged domain user can get SYSTEM privileges on remote machines.</abstract>
+<description>Active Directory is notorious for using long-broken protocols and preserving them for ages because backwards compatibility. In recent years, pentesters are realizing more and more how terrible these protocols can be, and security experts are finding more and more abuse scenarios.
+
+Take for example the NTLMv2 challenge-response protocol: It was first introduced back in Windows NT 4.0 SP4 and is still readily available on modern windows. Apart from not being very resistant to cracking (using just a few MD5s), it turned out it&#39;s not resistant to MITM attacks at all. An attacker in a MITM position can relay any authentication attempts to almost any target. There were some mitigitations for this over the years, but we are just now starting to see people actually starting to use them.
+
+So when relaying came to existence, security researches focused on &quot;what can we do with this&quot;? Obviously, if you manage to succesfully relay a Domain Administrator account, you have won; but that&#39;s not always possible. 
+
+Another protocol used extensively in Active Directory is Kerberos. The Microsoft implementation has several delegation/impersonation techniques available. And now, we know how to combine all these to be able to impersonate any user to a computer, given we were able to relay that computer&#39;s authentication at least once.
+
+The talk will cover these main areas:
+&lt;ul&gt;
+&lt;li&gt;NTLM Relaying&lt;/li&gt;
+&lt;li&gt;Kerberos delegation&lt;/li&gt;
+&lt;li&gt;Getting machines to authenticate to us&lt;/li&gt;
+&lt;/ul&gt;
+
+All tools necessary to perform this attack will be released as impacket modules.
+
+This talk is mainly based on research by @tifkin_ (Lee Christensen), @harmj0y (Will Schroeder), @enigma0x3 (Matt Nelson), @elad_shamir (Elad Shamir), @_dirkjan (Dirk-jan). </description>
+<logo></logo>
+<persons>
+<person id='8953'>JaGoTu</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/802/original/machine_accounts.pdf?1566566052'>Slides</attachment>
+<attachment href='/system/event_attachments/attachments/000/003/803/original/krb_demo.mp4?1566566052'>Recorded demo</attachment>
+</attachments>
+</event>
+<event guid='14a2c922-697c-4073-885c-568850a390a7' id='10200'>
+<date>2019-08-23T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10200-exposing_systems_of_power_and_injustice</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10200.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Exposing Systems of Power and Injustice</title>
+<subtitle>5 Years of Disruption Network Lab</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Presenting the Disruption Network Lab programme in Berlin, we will connect the debate on surveillance and whistleblowing to a cultural framework, analysing the influence of whistleblowing in empowering both experts and non-experts. A talk with Tatiana T_Bazz Bazzichelli and Lieke Ploeger / Disruption Network Lab.</abstract>
+<description>The act of whistleblowing is a concrete process able to reveal hidden facts, misconducts and wrongdoings of institutions and corporations, producing awareness about social, political and technological matters, informing about the reality we live in. Presenting the Disruption Network Lab programme in Berlin, we will connect the debate on surveillance and whistleblowing to a cultural framework, analysing the influence of whistleblowing in empowering both experts and non-experts. The talk will present the mutual interference between whistleblowing, art, hacking, and network development, as well as reflect on the influence of whistleblowing in the art &amp; cultural field. This presentation aims to further question what we can collectively offer to encourage a critical debate on the effects of whistleblowing in society, as well as to generate experimental ways of thinking within the digital scenario.</description>
+<logo>/system/events/logos/000/010/200/large/Disruptionlab.png?1559640910</logo>
+<persons>
+<person id='8888'>Tatiana Bazzichelli / Disruption Network Lab</person>
+</persons>
+<links>
+<link href='www.disruptionlab.org'>Disruption Network Lab</link>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/743/original/01_20151212_Chelsea_Manning_Network.jpg?1559640910'>Keep Fighting, photo by Nadine Nelken and Chelsea Manning Initiative Berlin</attachment>
+<attachment href='/system/event_attachments/attachments/000/003/801/original/DisruptionNLab_CCCamp_23Aug_OK.pdf?1566545018'>Exposing Systems of Power and Injustice</attachment>
+</attachments>
+</event>
+<event guid='95a8ea24-a2dd-479f-86fd-6e96ce66a47e' id='10349'>
+<date>2019-08-23T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10349-it-sicherheit_in_vernetzten_gebauden</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10349.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>IT-Sicherheit in vernetzten Gebäuden</title>
+<subtitle>Was kann man noch retten, wenn langlebigen Strukturen grundlegende Sicherheitskonzepte fehlen?</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Ein automatisiertes Gebäude ist schön, komfortabel und praktisch. Doch das wäre nicht Thema für einen Vortrag beim CCCamp, wenn es nicht einige gravierende Schwachstellen in den Bussystemen gäbe. Der Vortrag bietet eine Einführung in die Funktionalität von vernetzten Gebäuden am Beispiel des KNX Standards. Ohne dass ihr großes Vorwissen benötigt, berichte ich euch von Sicherheitsproblemen und möglichen Lösungsansätzen zur nachträglichen Steigerung der Sicherheit solcher Gebäudeautomatisierungssysteme.</abstract>
+<description>Feldbusse wie KNX werden in modernen Gebäuden eingesetzt, um typische Vorteile der Gebäudeautomation zu erzielen. Man verspricht sich Komfortgewinn, Kosteneinsparungen und Flexibilität. Klassische Schutzziele wurden beim Design dieser Bussysteme hintenangestellt und IT-Sicherheit so sträflich missachtet. Funktionalitäten wie Verschlüsselung oder Authentifikation der Kommunikationsteilnehmer sucht man bisweilen vergeblich. Sind die Gebäude erst einmal gebaut, wird die installierte Infrastruktur über Jahrzehnte betrieben. Das Licht des Kollegen im Nachbarbüro zu schalten ist ebenso leicht, wie das Steuern einer an den Feldbus angebundenen Heizung. Was im Büro noch verhältnismäßig harmlos erscheint, wird bedrohlich, wenn man bedenkt, dass auch Kraftwerke und andere kritische Infrastrukturen ähnliche Systeme nutzen.
+
+Nach einer Einführung in den KNX Bus geht der Vortrag auf Schwachstellen und deren mögliche Folgen in automatisierten Gebäuden ein. Es wird gezeigt, dass sich aus scheinbar harmlosen Sensoraktivitätsdaten bereits intime, personenbezogene Informationen herausarbeiten lassen.
+
+Um die Sicherheit bereits installierter, langlebiger Gebäudeinfrastrukturen dennoch zu erhöhen, werden bereits bekannte Verfahren aus der IP-Welt auf Feldbusse übertragen. Netzwerksegmentierung, IDS und Filterung sind erste Ansätze, auf die der Vortrag eingeht. Es werden deren Möglichkeiten und Grenzen beschrieben.
+
+ Darüber hinaus wird ein entwickelter Testdatensatz zur Evaluierung solcher und anderer Ansätze vorgestellt.</description>
+<logo></logo>
+<persons>
+<person id='9060'>Simeon</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/804/original/CCCamp2019_talk.pdf?1566566943'>Slides</attachment>
+</attachments>
+</event>
+<event guid='31dfe9ce-3291-497b-80e2-1b7a82344834' id='10350'>
+<date>2019-08-23T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10350-mapping_doomsday</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10350.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Mapping Doomsday</title>
+<subtitle>Using OSINT to monitor and predict environmental conflicts</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The world is entering a new era of instability. The climate crisis will put great pressure on the (relatively) peaceful balance of world politics. But the field of open source intelligence (OSINT) provides us with a new and unique way to map, study and predict these flashpoints. This talk will look at several technical approaches for using these techniques and include several example studies.</abstract>
+<description>Intelligence agencies, NGOs, business groups, and insurance companies all agree that the worsening climate crisis will fuel war and global crises. Some go further, saying that societal collapse is all but inevitable. Whatever your view on this is, it is difficult to see our current paradigm of general peace continuing into the next few decades. 
+
+But as this crisis worsens, modern technology has also gifted us with new tools to monitor, analyse and predict flashpoints. The emerging field of Open Source Intelligence (OSINT) is one such tool. OSINT uses publically available data (such as social media posts, video footage, satellite imagery, public databases and remote sensing) as the basis for in-depth investigations. 
+
+This talk will look at the ways in which these techniques can be usefully applied, both journalistically and analytically, within the context of the aforementioned crisis. Specifically, it will look at two examples of how OSINT can be used to analyse past events over the last year, and one concept for predicting a future event. 
+
+</description>
+<logo>/system/events/logos/000/010/350/large/1600px-Hurricane_Isabel_from_ISS.jpg?1560289814</logo>
+<persons>
+<person id='9076'>Michael Cruickshank</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='3ecdc823-95bb-4654-ad74-6eedb93dc1ed' id='10210'>
+<date>2019-08-23T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10210-50_jahre_journalismus_im_netz</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10210.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>50 Jahre Journalismus im Netz</title>
+<subtitle>the untold stories</subtitle>
+<track>Entertainment</track>
+<type>performance</type>
+<language>de</language>
+<abstract>Detlef Borchers und Erich Moechel erzählen, was sie im digitalen Neolithikum gesehen und erlebt, aber nie geschrieben haben. Episoden aus der Frühzeit über Gier &amp; Dummheit &amp; Illusionen bis die Dot.com-Blase brannte &amp; die Datengeilheit in die digitale Welt kam. Geschichten aus den &quot;Crypto Wars&quot; samt schrägen Begegnungen mit Schattenmenschen, wie schnell man in was hineingeschlittert wurde &amp; was dabei kaputtging. Wie das Netz halt wurde, was es heute ist.
+</abstract>
+<description>Der genauere Inhalt musst erst gemeinsam festgelegt werden, es wird auch Bilder geben. Sicher ist, wir werden Klartext reden, wobei auch ein Outing nicht auszuschließen ist.  </description>
+<logo></logo>
+<persons>
+<person id='5097'>Erich Moechel</person>
+<person id='9135'>Detlef Borchers</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='e9010267-d885-4982-92ff-4341dff3d5ea' id='10346'>
+<date>2019-08-23T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10346-was_tun_gegen_digitale_gewalt_gegen_frauen</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10346.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Was tun gegen Digitale Gewalt gegen Frauen</title>
+<subtitle>&quot;Nicht dem Phänomen Cybercrime im engeren Sinne zuzuordnen&quot; (Aus einer Antwort der Bundesregierung)</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Digitale Gewalt ist mehr als Hatespeech: Dazu gehören Doxing, Identitätsdiebstahl, Bildmanipulationen und deren Veröffentlichung, Spy Apps und noch mehr. Das meiste davon ist verboten, gilt aber nicht als &#39;Cybercrime&#39;. Der Talk beschreibt, was dazu gehört, wer betroffen ist, was sich bei dem Thema seit den Doxing-Fällen im Januar getan hat und was nötig wäre, um langfristig etwas zu ändern. </abstract>
+<description>Auf die Frage, ob Digitale Gewalt gegen Frauen auch ‚Cybercrime‘ sei, antwortete die Bundesregierung Ende November 2018: „Da es sich bei digitaler Gewalt nicht um Straftaten handelt, die sich gegen das Internet, Datennetze, informationstechnische Systeme oder deren Daten richten, sind sie nicht dem Phänomen Cybercrime im engeren Sinne zuzuordnen.“
+
+Wenige Wochen später drehte sich der Wind, als Anfang Januar bekannt wurde, dass 1000 Prominente gedoxt* worden waren, darunter viele Bundestagsabgeordnete. Mit diesem Fall wurde ein Vorgehen zum schwerwiegenden IT-Sicherheitsproblem, von dem vorher schon viele andere Menschen betroffen waren, ohne dass ein Hahn danach krähte.
+
+In diesem Talk wird im ersten Teil der aktuelle Stand der Erkenntnisse zu den verschiedenen Phänomen erläutert, die unter den Sammelbegriff Digitale Gewalt gegen Frauen fallen: Beleidigungen, Bedrohungen, Erpressung mit der Drohung, intime Bilder zu veröffentlichen oder das Veröffentlichen solcher Bilder - auch bekannt als ‚Revenge Porn‘ - , geheime Ton-/Bild-/Videoaufnahmen und die Weitergabe an Dritte, Online-Stalking, das Installieren von Spy-Apps, Identitätsdiebstahl und -missbrauch, Doxing, Manipulation und Veröffentlichung von Bildern bspw. zusammen mit der Wohnadresse usw. usf. 
+
+Das alles ist verboten, aber aus verschiedenen Gründen ist es oft schwierig, sich dagegen zu wehren. 
+
+Deswegen geht es im zweiten Teil darum, dass und wobei Betroffene zu wenig Unterstützung bekommen: praktisch, juristisch, durch Polizei und Politik. Das beginnt oft bei der Frage der Zuständigkeit. Unter Cybercrime wird in der Regel kriminelles Verhalten gegenüber Geräten, Unternehmen oder Infrastrukturen verstanden, jedenfalls nach Auffassung deutscher Innenpolitiker. Dazu kommen Fälle, bei denen es ums Geld geht und natürlich auch Kinderpornographie. 
+
+Innenminister Seehofer hat im Januar verkündet, dass das neue IT-Sicherheitsgesetz die Probleme lösen soll, die zu den Doxingfällen des „Adventskalenders“ geführt haben. Auf dem Tisch liegen Vorschläge für mehr Überwachung, weniger Verschlüsselung und mehr Geld für die Sicherheitsbehörden. Immerhin: Das BSI soll sich mehr um Verbraucherschutz kümmern. So wie es aussieht, ist die digitale Seite der häuslichen Gewalt aber wieder nicht dabei – dafür ist ja das Familien- und Frauenministerium zuständig. 
+
+Betroffene von Doxing, Revenge Porn, ferngesteuerten ‚Smart Devices‘ oder Spy Apps haben es meist schwer, kompetente Ansprechpartner*innen bei Polizei und Justiz zu finden. Es gibt auch kaum Beratungsstellen für diese Fälle, obwohl die Folgen manchmal schwerwiegend sind. 
+
+Deswegen gibt es im dritten Teil konkrete Tips für Betroffene und Hinweise, wo derzeit Lücken bestehen und Vorschläge, wie die geschlossen werden können
+
+Vielleicht - hoffentlich - ergibt sich im Anschluss an den Talk die Gelegenheit darüber zu sprechen, wie in manchem Fällen ganz praktisch Abhilfe geschaffen werden kann. 
+
+
+*Doxing bezeichnet das Veröffentlichen privater Daten oder Informationen (= Dokumente, ‚Docs‘) im Netz
+
+Image by &lt;a href=&quot;https://pixabay.com/users/ElisaRiva-1348268/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1831016&quot;&gt;ElisaRiva&lt;/a&gt; from &lt;a href=&quot;https://pixabay.com/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=1831016&quot;&gt;Pixabay&lt;/a&gt;</description>
+<logo>/system/events/logos/000/010/346/large/equilibrist-1831016_640.png?1560294050</logo>
+<persons>
+<person id='1864'>Anne Roth</person>
+</persons>
+<links>
+<link href='https://www.spiegel.de/thema/digitale_gewalt_gegen_frauen/'>Themenschwerpunkt Digitale Gewalt bei Spiegel Online</link>
+<link href='https://dipbt.bundestag.de/extrakt/ba/WP19/2414/241403.html'>Kleine Anfrage &#39;Digitale Gewalt gegen Frauen&#39;, Nov. 2018</link>
+<link href='https://www.aktiv-gegen-digitale-gewalt.de/de/'>Hilfeseiten des &quot;Bundesverbandes Frauenberatungsstellen und Frauennotrufe&quot;  </link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='b516cbe6-9225-449a-9298-1bb1a2fdb3c6' id='10256'>
+<date>2019-08-23T21:00:00+02:00</date>
+<start>21:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10256-introduction_to_opengles_and_glsl_programming</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10256.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Introduction to OpenGLES and GLSL programming</title>
+<subtitle></subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This foundation talk describes the basic concepts of the OpenGLES 2.0 real-time rasterizer. We will explain the different stages of the rendering pipeline, briefly introduce the mathematics involved, show the boilerplate code required to setup an OpenGLES program, and finally look at the real fun stuff, which is the GLSL language used in vertex and fragment shaders.
+</abstract>
+<description>From notebooks and smartphones to embedded systems and game consoles, every modern computing platform contains chips for hardware accelerated 3d rendering. The OpenGL standard and API describes the drawing directives provided by these chips and is used to compose and animate user interfaces and to render interactive virtual scenes. Basically, every pixel that you see has been processed by an OpenGL pipeline.
+
+Engines like Unity3d provide a convenient way to describe and render threedimensional scenes without having to deal with the low level drawing directives. But this convenience makes it difficult to understand the path by which your logic becomes pixels, and coding closee to the hardware can be a lot of fun.
+
+This foundation talk describes the basic concepts of the OpenGLES 2.0 real-time rasterizer. We will explain the different stages of the rendering pipeline, briefly introduce the mathematics involved, show the boilerplate code required to setup an OpenGLES program, and finally look at the real fun stuff, which is the GLSL language used in vertex and fragment shaders.
+
+After watching this talk, you will have a better understanding of the pipelines that are used to create the pixels on your screen. If you already know a high-level programming language such as C/C++, Java or Go, the examples provided will help you get started with coding your own 3d app, game or demo.
+
+</description>
+<logo></logo>
+<persons>
+<person id='8887'>folkert</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='8f17b808-466d-4aa9-8bac-a2b3afcdf0a2' id='10258'>
+<date>2019-08-23T22:00:00+02:00</date>
+<start>22:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10258-what_you_see_is_not_what_you_get_-_when_homographs_attack</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10258.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>What you see is not what you get - when homographs attack</title>
+<subtitle></subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This talk offers a brief overview about homograph attacks, describes part of the mechanics behind the registration of homograph domains, highlights their risks and presents a chain of two practical exploits against Signal, Telegram and Tor Browser that could lead to nearly impossible to detect phishing scenarios and also situations where more powerful exploits could be used against an opsec-aware target.</abstract>
+<description>Since the introduction of Unicode in domain names (known as Internationalized Domain Names, or simply IDN) by ICANN
+over two decades ago, a series of brand new security implications were also brought into light together with the
+possibility of registering domain names using different alphabets and Unicode characters.
+
+This talk offers a brief overview about homograph attacks, describes part of the mechanics behind the registration of homograph domains, highlights their risks and presents a chain of two practical exploits against Signal, Telegram and Tor Browser that could lead to nearly impossible to detect phishing scenarios and also situations where more powerful exploits could be used against an opsec-aware target.
+
+Historical security issues related to Unicode and confusable homographs, as well as other attack vectors not discovered by the author will also be explored in this presentation.</description>
+<logo></logo>
+<persons>
+<person id='8669'>Julio</person>
+</persons>
+<links>
+<link href='https://wildfire.blazeinfosec.com/what-you-see-is-not-what-you-get-when-homographs-attack/'>What you see is not what you get</link>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/806/original/Blaze_Julio_CCC_Homograph.pdf?1566580481'>Presentation</attachment>
+</attachments>
+</event>
+<event guid='0d45023b-ddb8-4048-bf39-1bffc11ff097' id='10204'>
+<date>2019-08-23T23:00:00+02:00</date>
+<start>23:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10204-participatory_art_event_tools_co-creation_and_silk_road_networks</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10204.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Participatory art event tools, co-creation and silk road networks</title>
+<subtitle>Collide, connect, cartography</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The Borderland is a participatory art event in Denmark with 3210 co-creators. Over the last three years, we have created online tools to keep participation and co-creation high as the event has tripled in size in only three years. This seminar is about the design philosophy behind these tools, drawing parallels to the ancient silk road. These tools have since been spread to at least five other events around the world.</abstract>
+<description>In developing the Borderland community online and offline, we&#39;ve built tools that help us create denser networks, allowing for share creative processes, distributed art-grant allocation, empowered community members and decentralized decision making. 
+
+These tools, called Dreams and Realities are run alongside a customized version of the Loomio platform and our own instance of the Pretix ticketing platform. Dreams is for distributed art-grant distribution and project guidance. Realites is for stakeholder-mapping to understand how the needs, responsibilities, people and dependencies fit together in a decentralized organization.</description>
+<logo>/system/events/logos/000/010/204/large/calm-monster.gif?1559684888</logo>
+<persons>
+<person id='8997'>hugi</person>
+</persons>
+<links>
+<link href='http://theborderland.se'>The Borderland</link>
+<link href='http://dreams.theborderland.se'>Borderland Dreams</link>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+</day>
+<day date='2019-08-24' end='2019-08-25T04:00:00+02:00' index='4' start='2019-08-24T09:00:00+02:00'>
+<room name='Curie'>
+<event guid='078e6819-edca-4b0a-a417-a964a9c08ce3' id='10299'>
+<date>2019-08-24T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10299-lo_an_llvm_obfuscator</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10299.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>LO! An LLVM Obfuscator</title>
+<subtitle></subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk we will present how intermediate code transformations can be used to obfuscate code and the advantadges and limitations they introduce. We will also brielfy discuss some techniques that could help detect and reverse code obfuscated in such ways.</abstract>
+<description>&lt;p&gt;Despite their limitations, intermediate languages like LLVM-IR provide the best way to write code transformations that work well for all the input and output languages supported by the compiler framework.&lt;/p&gt;
+&lt;p&gt;Usually, this is used to write optimization passes, but nothing prevents you from using them to make the resulting code less inteligible to an external reader.&lt;/p&gt;
+&lt;p&gt;This talk will focus on how different obfuscation techniques can be implemented and used as such passes and what are the limitations that may make implementing, for example, an unpacker a bit harder.
+&lt;p&gt;We will also cover how some of these techniques can be reversed (specially when perfoming comparative analysis).&lt;/p&gt;
+&lt;p&gt;Keep in mind that although LO started as a way to provide a way to deterministically increase variability in generated code and make finding out the patched flaws harder, many of it&#39;s techniques like code flattening or constant expansions are also used by other users of obfuscated code, for example malware.&lt;/p&gt;</description>
+<logo></logo>
+<persons>
+<person id='8931'>Klondike</person>
+</persons>
+<links>
+<link href='https://klondike.es/mthesis.pdf'>A MSc Thesis on the subject</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='a296ba81-78b7-4500-be34-5f80d0a329c7' id='10329'>
+<date>2019-08-24T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10329-technopolice_calling_out_so-called_safe_cities</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10329.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Technopolice: calling out so-called &quot;Safe Cities&quot;</title>
+<subtitle>Decentralising the fight against automated surveillance in cities.</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In many French cities (and beyond), mayors are pushing towards &quot;safe Smart Cities&quot;, pushing for technology everywhere. Microphones, video-surveillance, automated drones, facial recognition, machine learning is the recipe of their fantasised secure city.
+
+This talk will introduce Technopolice, the new campaign from La Quadrature du Net, its goals, its tools, and the way we will make it happen.</abstract>
+<description>All over the French territory, the “Smart City” is slowly revealing its true colours: a complete and constant surveillance of the urban area for police purposes, based on partnerships between industrial companies such as Thalès or Engie and the cities themselves.&lt;/br&gt;
+
+Multiple cities are experimenting &quot;smart&quot; videosurveillance based on automated treatment of videos, in order to make face recognition or detecting behaviours deemed to be abnormal. Another city is teaming up with a start-up to deploy microphones and drones in the city. The idea is to detect so-called abnormal sounds to alert the
+police, which can then use video-surveillance to check if a patrol is needed or not. The city of Nice wants to have its own custom citizen reporting application. Marseille wants to use AI and Big Data to predict behaviours
+and to help in decision making.&lt;/br&gt;
+
+This is what they want our future to be: a huge automated surveillance system, with behaviour analysis, emotion recognition, pre-emption of threats, automation of the police, repression of any unwanted behaviour.&lt;/br&gt;
+
+This comes at a huge cost: instead of the &lt;i&gt; polis &lt;/i&gt;, which means Democratic City, a place to stroll around, to meet and gather, we will have a dehumanised, unwanted place, a place to experiment the most advanced forms of social control: there is no such as surveilling just &quot;to look&quot;, our behaviours are modified just by knowing we are being surveilled. Not to mention the financial and experimental cost of such an architecture.&lt;/br&gt;
+
+In this talk, I will detail the &quot;Technopolice&quot; campaign, its importance for every single human being willing to protect their freedom of movement and right to exist without being constantly subjected to surveillance. I&#39;ll explain the importance of decentralising such a campaign, and how we will try to federate the data and the organisations around this project.&lt;/br&gt;</description>
+<logo>/system/events/logos/000/010/329/large/logoTP.png?1560278804</logo>
+<persons>
+<person id='8988'>Guinness</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='94273ff5-ae50-49bd-a892-5a5f2e8c8451' id='10231'>
+<date>2019-08-24T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10231-ethikrichtlinien_fur_kunstliche_intelligenz_wie_war_s_mit_gesetzen</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10231.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Ethikrichtlinien für Künstliche Intelligenz? Wie wär&#39;s mit Gesetzen?</title>
+<subtitle>Wie die Industrie mit Debatten um &quot;ethische KI&quot; Zeit kauft</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Bisweilen kann man sich des Eindrucks nicht erwehren, jede zweite Woche würde eine neue, wachsweiche Selbstverpflichtung für den ethischen Einsatz von Algorithmen bekanntgegeben. Privatwirtschaftliche wie öffentliche Organisationen übertrumpfen sich geradezu dabei zu betonen, dass der Mensch bei allen maschinellen Entscheidungen im Mittelpunkt stehen soll und dass diese transparent sein müssen. Aber was bringt einem das Wissen um benachteiligende oder falsche Funktionsweise der Algorithmen, wenn man sie dennoch nicht verbieten kann? Und: sollten wir die Regeln für den zukünftigen Einsatz von Maschinen wirklich von den Konzernen gestalten lassen, die diese Technologien entwickeln? 
+
+Wir zeigen, wie wenig konkret die verschiedenen Selbstverpflichtungen der Unternehmen, Verbände und Organisationen sind und wie all das Reden über Ethik  in den meisten Fällen einem Ziel dient: gesetzliche Regulierung verhindern.</abstract>
+<description>Bisweilen kann man sich des Eindrucks nicht erwehren, jede zweite Woche würde eine neue, wachsweiche Selbstverpflichtung oder Empfehlung für den ethischen Einsatz von Algorithmen bekanntgegeben. Privatwirtschaftliche wie öffentliche Organisationen übertrumpfen sich geradezu dabei, ein weiteres Mal zu betonen, dass der Mensch bei allen maschinellen Entscheidungen im Mittelpunkt stehen soll, dass sie fair und nachvollziehbar sein müssen und es stets die Möglichkeit zum Widerspruch gegen eine solche Entscheidung geben muss. Transparenz, Transparenz und nochmals Transparenz sei das Maß aller Dinge. Aber was heißt das konkret für diejenigen, die nur noch per Gesichtserkennung in ihr Büro oder Wohnung reinkommen, deren Kredit, Wohnungs- oder Arbeitsgesuch abgelehnt wird oder sie vom Jobcenter keine Förderung bekommen dank einem Algorithmus? Was bringt einem das Wissen um benachteiligende oder falsche Funktionsweise der Algorithmen, wenn man sie dennoch nicht verbieten kann? Welchen Sinn hat das Recht darauf, sich a posteriori wehren zu dürfen, wenn man bereits alles verloren hat? Und: sollten wir die Regeln für den zukünftigen Einsatz von Maschinen wirklich von den Konzernen gestalten lassen, die diese Technologien entwickeln? Ethikforscher, die sich für Selbstregulierung einsetzen, verschweigen oft, dass ihre Einrichtungen von Techfirmen finanziert werden. Selbst die neuen Ethischen Richtlinien der EU sind von Google, IBM, Facebook und Zalando mitgeschrieben worden.
+
+Wir zeigen, wie wenig konkret die verschiedenen Selbstverpflichtungen der Unternehmen, Verbände und Organisationen sind und wie all das Reden über Ethik  in den meisten Fällen einem Ziel dient: gesetzliche Regulierung verhindern.</description>
+<logo></logo>
+<persons>
+<person id='8967'>Chris Köver</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='b1fc7b95-1b31-4504-9b67-e9d766b40f73' id='10192'>
+<date>2019-08-24T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10192-privacy_an_unequally_distributed_resource</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10192.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Privacy: An Unequally Distributed Resource</title>
+<subtitle>A Study of Privacy as Privilege in Our World</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk, we&#39;ll investigate how privacy has become an indicator of privilege in our world. Does everyone have equal access to privacy? How does unequal privacy affect the lives of people? Should we treat privacy like other privileges (i.e. wealth, race, gender)? If we have access to privacy, is this something we can share? By the end of the talk, we&#39;ll have explored how the concept of privacy has changed, what we can do about these changes and some practical steps for making privacy more accessible for those who most need it.
+</abstract>
+<description>This is not your average privacy talk. This is, instead, a study of how the word and concept of privacy has changed over time. These changes, which are in part our own creation, have enabled privacy to be both unequally applied and co-opted by a variety of companies and movements. In this lecture, we’ll discuss the following questions:
+
+- What is privacy in our current society?
+- How has our understanding of privacy changed over time?
+- Does everyone have equal access to privacy? Why or why not?
+- Who is most impacted by the rise of technological surveillance?
+- How can we use our privilege to help protect others’ privacy?
+
+Who should attend:
+
+- People interested in privacy regardless of &quot;professional&quot; knowledge or level of experience
+- Folks doing anti-oppression work
+- People who already disagree with me after reading this abstract :-D
+
+While the format is a lecture, I hope we can find an open space afterwards to continue debating and discussing these questions and the theme as a whole. My goal is to help educate and inspire work around privacy that benefits not just those who attend the Camp, but instead reaches beyond our privacy-aware social circles, to help those who do not have access to privacy. </description>
+<logo></logo>
+<persons>
+<person id='7681'>Katharine Jarmul</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='50ed583c-4871-4e8e-a31b-4b2b84385413' id='10184'>
+<date>2019-08-24T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10184-from_dc_to_rf_starting_where</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10184.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>From DC to RF...starting where?</title>
+<subtitle>An analog engineer dives into RF circuits</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This talk will focus on learning and re-learning RF topics, from the perspective of a  semi-experienced engineer. We will review rules of thumb, practical experience and the theory of RF and how it all fits together for your next PCB design. This will also be contrasted with best-practices for designing lower frequency circuits and how it all fits together. </abstract>
+<description>Starting my engineering career working on low level analog measurement, anything above 1kHz kind of felt like &quot;high frequency&quot;. This is very obviously not the case. This talk will go over the journey of discovering and rediscovering higher frequency techniques and squaring them with the low level measurement basics that I learned at the beginning my career. The talk will include a discussion of Maxwell&#39;s equations and some of the assumptions that we make when we&#39;re working on different types of circuits. 
+ 
+Attendees of this talk will find this information useful in the context of RF calculations around cellular, wifi, bluetooth and other commonly available communication methods. CCCamp attendees will walk away knowing a little bit more about how to interact with the elements that power their everyday projects.</description>
+<logo></logo>
+<persons>
+<person id='7093'>Chris Gammell</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='6963b184-207a-4ac3-9aea-530120c1445f' id='10353'>
+<date>2019-08-24T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10353-fast_global_internet_scanning_-_challenges_and_new_approaches</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10353.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Fast Global Internet Scanning - Challenges and new Approaches</title>
+<subtitle>Or how to become your own ISP</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Current search engines such as censys or shodan give everyone an insight into the global Internet. Unfortunately, they don&#39;t provide a comprehensive view of the Internet because you can&#39;t access the raw data. Consequently, you have to scan the Internet yourself.
+Anyone can perform a one-shot scan via Mass-Scan &amp; Co. However, how to build an infrastructure for regular Internet scans that is not blocked after a short time by Intrussion Detection Systems and Spam/Blacklists is not easy. 
+First we will talk about the right scan setup, infrastructure, scan strategies, and data enrichment. We will then take a look at the data and gain common and interesting insights into the structure of the Internet.</abstract>
+<description>Current search engines such as censys or shodan give everyone an insight into the global Internet. Unfortunately, they don&#39;t provide a comprehensive view of the Internet because you can&#39;t access the raw data. Consequently, you have to scan the Internet yourself.
+Anyone can perform a one-shot scan via Mass-Scan &amp; Co. However, how to build an infrastructure for regular Internet scans that is not blocked after a short time by Intrussion Detection System and Spam/Blacklists is not easy. The following questions must be answered:
+Which scanning algorithms are used (centralized, distributed, BGP prefix hit lists)? How could you reduce scan traffic?  How do I process the data in the long term (up to 600GB / scan)? With which further data do I enrich the scans for further analyses (BGP prefixes, Inetnum objects) ? How do I build the right server without a bottleneck and how do I connect it to the internet (rent a server or become a RIPE-Member/ your own ISP with a /22 IPv4 /32 IPv6 Block)? 
+
+In the first half of the talk we will deal with these questions. In the second half of the lecture we will discuss real scan data. We will concentrate on the analysis of the network topology and distribution of BGP prefixes, whois blocks and network services of well-known autonomous systems on the Internet. As a further example, we will look at the network structure of a large well-known German hoster, which gives us a good overview of its internal organization of data centers and other services. Finally, we will look at some data and analysis from a security perspective.</description>
+<logo>/system/events/logos/000/010/353/large/linux-tux-icon-12.jpg?1566643259</logo>
+<persons>
+<person id='9072'>Johannes Klick &#39;Garak&#39;</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/808/original/20190824_the_camp_v2.pdf?1566643062'>Talk Slides</attachment>
+</attachments>
+</event>
+<event guid='508fe23f-bc69-4521-abc3-59b649598eb5' id='10193'>
+<date>2019-08-24T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10193-deaths_per_twh</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10193.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Deaths per TWh</title>
+<subtitle>The Price of Energy and Reducing CO2 Emissions</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Climate change and the discussion about reducing CO2 emissions to ensure matching the Paris agreement currently is the most important topic in our political and economic discussions. We all agree reducing emissions is a necessity, but how can we possibly achieve this in a world that consumes more energy than ever before? And which price are we willing to pay for it?</abstract>
+<description>Climate change and the discussion about reducing CO2 emissions to ensure matching the Paris agreement currently is the most important topic in our political and economic discussions. We all agree reducing emissions is a necessity, but how can we possibly achieve this in a world that consumes more energy than ever before? And which price are we willing to pay for it?
+
+[The Paris agreement](https://ec.europa.eu/clima/policies/international/negotiations/paris_en) sets out a global action plan to put the world on track to avoid dangerous climate change by limiting global warming to well below 2°C and pursuing efforts to limit it to 1.5°C. This can only be achieved by reducing emissions - this primarily means CO2 emission.
+
+So far, so good. But let&#39;s face the truth: We NEED energy. Our whole world is addicted to it, and cutting the power lines is no option for today&#39;s society, economy, and our daily lives. 
+
+We need energy, therefor we need power plants. Power plants need energy sources for transforming them into electrical energy. These plants can be fuelled by various sources: Coal, wind, solar, nuclear, natural gas, biomass, and oil, just to name the major ones.
+
+Let&#39;s assume for a moment we could build a completely new power infrastructure for a country from scratch under the following prerequisites:
+
+* Minimal CO2 emissions
+* As little impact as possible (environment, health, economics etc.)
+* Affordable price
+* Available sources
+* Lowest possible fuckup factor
+
+This task can be approached by translating it into an optimization problem: Finding the ideal energy mix taking into account the conditions listed above.
+
+This talk presents an analysis of this optimization problem by comparison of the relevant factors (emissions, affordability, impact, sources) of different energy sources (coal, natural gas, wind, solar, biomass, nuclear and oil). Our aim is to categorize different energy sources under a strict scientific regime without emotional debates, putting price tags on each of them not only made of money but also factors like emissions, fuckup factors, health concerns, and the cost of human lives per TWh. </description>
+<logo></logo>
+<persons>
+<person id='8978'>Julia Riede</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='65d27021-12c5-4e4c-8cfd-20c50ec9795a' id='10257'>
+<date>2019-08-24T21:00:00+02:00</date>
+<start>21:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10257-little_big_data</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10257.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Little Big Data</title>
+<subtitle>Spurensuche in elektronischen Teilnehmerverzeichnissen</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Ein Geheimdienst im 21. Jahrhundert, der was auf sich hält, muss Big Data machen: Möglichst alles über alle Bürger sammeln, horten, sortieren, filtern, rastern und ja niemandem was von den Ergebnissen mitteilen. Da haben wir uns gedacht: Das können wir auch! Daher machen wir für unseren eigenen Kurznachrichtendienst eben in Little Big Data.</abstract>
+<description>Praktischerweise stellt die Deutsche Telekom im Halbjahrestakt eine digitale Offlinedatenbank bereit, die schonmal Adressen, Telefonnummern und Geokoordinaten der meisten Einwohner enthält - und das seit 1992. Einzige Nachlässigkeit: Die Informationen sind in binärer Form auf den Datenträgern abgelegt und die Gewissenhaftigkeit der Informanten im Post- und Telekomdienst lässt ausweislich offensichtlicher Fehler in den Datensätzen zu wünschen übrig.
+
+Begleitet uns in einem besinnlichen Diavortrag bei Geschichten einer abenteuerlichen Jagd nach den Datensätzen, von nervenaufreibendem Starren auf Binärmuster, um den Geheimnissen der Encraption auf den Grund zu gehen und dem überwältigenden Gefühl, mal an Datenmengen zu schnuppern, die noch vor ein paar Jahren problemlos als “Big Data” durchgegangen wären.</description>
+<logo></logo>
+<persons>
+<person id='1544'>erdgeist</person>
+<person id='1645'>Andreas Lehner</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='260ac343-6ccd-4652-8667-adf4e6d5cdeb' id='10268'>
+<date>2019-08-24T22:00:00+02:00</date>
+<start>22:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10268-architecture_of_secure_iot_devices</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10268.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Architecture of secure IoT devices</title>
+<subtitle>Security by design</subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This talk will present a secure IoT architecture by design, incorporating secure boot (such as HAB of iMx6), secure update processes, system partitioning and redundancy, system recovery, flash wear-out, and secure remote access, </abstract>
+<description>This talk will present a secure IoT architecture by design, incorporating secure boot (such as HAB of iMx6), secure update processes, system partitioning and redundancy, system recovery, flash wear-out, and secure remote access, </description>
+<logo></logo>
+<persons>
+<person id='3031'>frehberg</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Meitner'>
+<event guid='e1cba2cc-d83f-44dc-869e-51fdfc628563' id='10377'>
+<date>2019-08-24T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10377-solare_brennstoffe_-_wasserstoff_aus_sonnenlicht</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10377.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Solare Brennstoffe - Wasserstoff aus Sonnenlicht</title>
+<subtitle>Solarzellen können nicht nur Strom erzeugen</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Sonnenenergie deckt heute erst etwas über 2% des weltweiten Energiebedarfs durch Umwandlung von Sonnenlicht in elektrische Energie. Eine der Möglichkeiten, um diese zu speichern, ist die Elektrolyse von Wasser, um Wasserstoff zu erhalten.
+Was aber wäre, wenn man Wasserstoff direkt gewinnen könnte?
+
+Eine schnelle Übersicht über Sonnenlicht, das Prinzip hinter Photovoltaischen Solarzeiien, und wie photoelektrochemische Zellen, die flüssiges Wasser in seine Bestandteile Wasserstoff und Sauerstoff spalten können, beide Prozesse miteinander kombinieren können.</abstract>
+<description>Die von uns Menschen verantworteten CO2-Emissionen müssen reduziert werden, aber wie? 
+Die Erzeugung von elektrischer Energie aus Sonnenlicht wird mit großer Sicherheit einen signifikanten Beitrag zur Deckung des weltweiten Energiebedarfs liefern. 
+Zuerst sehen wir uns das Spektrum der Sonne an, und wie viel dieser Energie wo auf der Erde ankommt.
+Wenn dieses Licht auf Atome trifft, wie die Siliziumatome in einer Solarzelle, kann es diese in einen energiereicheren Zustand anregen, aber nur ein Teil des Sonnenlichts hat genug Energie, um diese Anregung zu erreichen. Was für Konsequenzen hat das für die Effizienz von Photovoltaik-Zellen?
+Jeder kennt die blau-schillernde Silizium Photovoltaikzelle, die Größen von wenigen Quadratzentimeter in einem Taschenrechner über Installationen auf Hausdächern mit einigen Kilowatt bis zu Solarparks, die mehrere Megawatt Spitzenleistung abgeben können.
+Solarenergie ist vom Tag-Nacht-Zyklus der Erde und von der Jahreszeit abhängig. Um die Energieversorgung auch z.B. im Winter bei geringerer Sonnenintensität decken zu können, muss diese längerfristig gespeichert werden. Verschiedene Strategien sind denkbar, eine davon die Umwandlung in chemische Energie in Form von Wasserstoff durch Elektrolyse von Wasser.
+Beide Technologien bringen Umwandlungsverluste mit sich und erfordern teilweise teure Metalle und viel Energie bei der Herstellung.
+
+Aber es gibt eine Klasse an Halbleiter-Materialien, die, wenn man sie in Wasser eintaucht und mit Sonnenlicht bestrahlt, die Lichtenergie direkt auf das Wasser übertragen, und es in Wasserstoff und Sauerstoff spalten können. Man umgeht die Kopplung von Photovoltaik und Elektrolyse.
+Viele dieser halbleitenden Materialien sind mit weit weniger Energieaufwand herzustellen als Silizium. Besondere Aufmerksamkeit ist auf häufig vorkommende und damit gut verfügbare Metalle gerichtet. Eisenoxid - Rost, oder Titandioxid - das Pigent aus weißer Wandfarbe, sind zwei Beispiele, die jeder kennt, ihre Superpower aber sehr warscheinlich nicht.
+Noch sind die Wirkungsgrade gering und marktreife Lösungen noch nicht absehbar. Wenn der Ansatz allerdings erfolgreich ist, könnte dies ein Durchbruch für unsere Energieerzeugung sein, und nebenbei einen Teil des Problems lösen, Energie zu speichern und zu transportieren. </description>
+<logo></logo>
+<persons>
+<person id='9097'>Stormwind</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='2fe00b49-1471-4c79-8a75-8da73f71b63d' id='10381'>
+<date>2019-08-24T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10381-love_cyborgs_art_and_open_source-_an_artistic_approach_on_how_to_stay_golden</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10381.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Love, CyBorgs, Art and Open Source- an artistic approach on how to stay golden</title>
+<subtitle>How to educate society through the language of art</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Here we are, a new generation. Actually not only that, we are moving forward in evolution. The Antropocene is screaming for action, but -  „Yeah right, I know... we‘re working on it!“ she told me. Does Sophia really know? Do I care? 42?</abstract>
+<description>In some people‘s minds, utopian thoughts are blizzering around in thunderstorms of beautiful insanity, yet unfortunately  some others‘ minds seem to be hopeless cases if it comes to the essential understanding of problems. Sure, everyone knows what we‘re talking about. In theory, there is a strong need to change things, not only concerning politics, philosophy, art or physics: almost every academic discipline seems to grow some kind of interdisciplinary necessity into an important status. Sadly, the worlds` leaders suck horribly at reaching any fair and positive social state for all the inhabitants of this beautiful planet. But, since education can be based on solidarity, and swarm intelligence apparently grows into neural networks, there is no better time to sit down and talk about all those moral problems than now. Any change needs to be made by an individual, as far as we know. Let‘s get together, exchange knowledge, fight in peace and use the language of conceptual art as a weapon!</description>
+<logo>/system/events/logos/000/010/381/large/20180708_160342.jpg?1566578307</logo>
+<persons>
+<person id='9128'>Lio</person>
+</persons>
+<links>
+<link href='www.juliamussgnug.com'>HP</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='6d0b0f86-3969-4cd9-974f-69ba90cfce64' id='10312'>
+<date>2019-08-24T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10312-cyborg_foundation</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10312.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Cyborg Foundation </title>
+<subtitle>Transpecies Society</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Presentation of the Cyborg Foundation, its philosophy, members and developed projects. Based in Barcelona and founded in 2017, CFL is an association that gives voice to non-human identities.  </abstract>
+<description>The world around us is full of things that our body is not able to perceive. However, what would happen if we could create new senses that would allow us to decide how we want to perceive our surroundings? 
+Supported by a multidisciplinary team, we conform a group of engineers, philosophers, designers and artists dedicated to exploring the relationship between species, machines and organs. With an eye on nature and analyzing the different senses found on living beings,  our purpose is the creation of new sense organs to expand human capabilities. Our team is focused on translating the suggested idea to a hardware/software device, that will not only process data but also transmit it to the body through the brain. 
+In the course of becoming cyborg, different phases are found: the creation of the organ, the implantation of it and the acclimatization of the brain and body to the new sense. The brain is a plastic organ that can be moulded. Just like Neil Harbisson says “The brain is like a sculpture to be shaped”. 
+By now, considerable results have been obtained. We will take a closer look at it by introducing the several members whose organs have been already implanted, how this has affected their life and way of interact with the physical world. We will, as well, explain the different senses and its design. Just for a quick view we will talk about:
+Neil Harbisson - Eyeborg. Color sense antenna. 
+Moon Ribas - Seismic sense 
+Manel Muñoz - Weather station
+Kai Landre - Cosmic rays
+
+In addition, we have the satisfaction of announcing that the CCC will be the first to know about the pioneering technology that we are developing to power the devices.</description>
+<logo>/system/events/logos/000/010/312/large/CFL?1560270263</logo>
+<persons>
+<person id='9029'>Mo</person>
+</persons>
+<links>
+<link href='https://www.cyborgfoundation.com'>Cyborg Foundation</link>
+<link href='https://www.cyborgarts.com'>Cyborg Arts</link>
+<link href='https://www.transpeciessociety.com'>Transpecies Society </link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='84c25f65-998a-43a8-bd32-2fe91fe42ff7' id='10232'>
+<date>2019-08-24T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10232-was_ihr_schon_immer_nicht_uber_koffein_wissen_wolltet</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10232.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Was ihr schon immer (nicht) über Koffein wissen wolltet</title>
+<subtitle></subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Koffein als Substanz wird Tag für Tag aufgrund seiner anregenden Wirkung von vielen Menschen konsumiert, doch was genau steckt eigentlich hinter dieser Substanz? In diesem Talk blicken wir in die Chemie, Herkunft, Wirkung, Gefahren und weitere Aspekte des Koffeins.</abstract>
+<description>Koffein, ein Stoff, den viele (hackende) Menschen tagtäglich in unterschiedlichen Formen konsumieren. Was genau ist diese Substanz eigentlich und wo kommt sie überall vor? Was passiert mit Koffein und mit uns, wenn dieses Molekül durch unseren Körper reist? Und kann Koffein ab einer bestimmten Menge gefährlich werden? Diese und weitere Fragen werden zusammen mit vielem, was Wissenswertes zur Chemie von Koffein existiert, hier thematisiert.</description>
+<logo></logo>
+<persons>
+<person id='8973'>Lea Rain</person>
+</persons>
+<links>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/807/original/DEMO-cccamp19-beamer.pdf?1566641256'>Slides</attachment>
+</attachments>
+</event>
+<event guid='c1146d2e-c4cf-44ed-8d83-3fe3c3a4ba0e' id='10202'>
+<date>2019-08-24T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10202-wisdom_of_os</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10202.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Wisdom of OS</title>
+<subtitle>An Inquiry into the Limits of the Possible</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Klimakrise, Artensterben, die Grundlagen des Leben – unsere Herausforderungen sind dringend, global und komplex. Seit dem Anthropozän wissen wir, dass der Planet in unserer Hand liegt. Jetzt müssen wir unsere Köpfe zusammenstecken und gemeinsam Lösungen entwickeln. Anknüpfend an historischen Konzepte von einer das Weltwissen allgemein zugänglich machenden World Encyclopedia und des künstlich intelligenten Word Brain kann eine interdisziplinäre Betrachtung durch unterschiedliche Herangehensweisen spannende neue Sichtweisen eröffnen.
+
+Die Wahrnehmung von Betriebssystemen als Schnittstelle zwischen Mensch und Maschine, die Auswirkung von Softwarelizenzen auf die Gestaltung der Verhältnisse zwischen Maschinen, Menschen, Firmen und Staaten und die mit einer weltweiten Vernetzung entstehenden Chancen und Risiken können aus Hackersicht von einem sehr technischen Startpunkt analysiert werden.
+
+Das Anthropzän verlangt den Übergang in die Noosphäre. Und das heißt, wir müssen das  Urheberrecht als juristisches Betriebssystem unserer Wissensordnung in Ordnung bringen, das Netz als seine technische Infrastruktur redezentralisieren und semantifizieren, unser wissenschaftliches, journalistisches und künstlerisches Sensorium stärken und Werkzeuge entwickeln, die es uns erlauben, gemeinsam zu denken und zu enstscheiden. Mehr als künstliche brauchen wir menschliche kollektive Intelligenz, um die Betriebssysteme unserer Gesellschaft mit kollektiver Weisheit auszustatten.</abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='5580'>vgrass</person>
+<person id='1545'>ruedi</person>
+</persons>
+<links>
+<link href='http://public.beuth-hochschule.de/~rweis/papers/WeisHochschulforumDigitalisihttp://public.beuth-hochschule.de/~rweis/papers/WeisHochschulforumDigitalisierungBetriebssystemBildung.pdferungBetriebssystemBildung.pdf'>Rüdiger Weis, Bildung als Betriebssystem der Digitalen Gesellschaft, HRK Expertenanhörung, Frankfurt, 7. Februar 2019 </link>
+</links>
+<attachments>
+<attachment href='/system/event_attachments/attachments/000/003/763/original/WeisHochschulforumDigitalisierungBetriebssystemBildung.pdf?1560249921'>Rüdiger Weis, Bildung als Betriebssystem der Digitalen Gesellschaft, HRK Expertenanhörung, Frankfurt, 7. Februar 2019 </attachment>
+</attachments>
+</event>
+<event guid='f0730982-2990-418e-9b15-20a6b9e86dd2' id='10295'>
+<date>2019-08-24T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10295-power-to-x</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10295.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Power-to-X</title>
+<subtitle>How to make (nearly) everything from electricity.</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This talk will give an introduction into the general concepts of power-to-x and then go more into detail on carbon capture and utilization (CCU). CCU is the idea of building up a closed carbon cycle, where CO2 is recycled, towards fuels and base chemicals, under the use of renewable energy. The talk will give insight in the technology, chemistry, possibilities and challenges. </abstract>
+<description>While redesigning our electric supply network towards renewable energies, we face the problem of the fluctuating behavior of the renewables. To solve this, higher nameplate capacities need to be installed, as compared to traditional power plants. This frequently leads to high overcapacities, which we should use, as they would be wasted otherwise. Some of this energy needs to be stored for periods where the energy generation is lower than our consumption. The rest can be used to produce all kinds of things that we need. This would allow a sector coupling of electricity with other fields like transport, heat or chemical industry and lead to more sustainable processes in all those fields.
+If we see this on a global scale, we can also think of a redistribution of energy not only in time and sector of application, but as well in space. This can be realized, by producing fuels and other energy intensive products in areas of the world with a high potential in the generation of renewable electricity, and transport them to places where they are needed.
+The technologies that would make this possible are often subsumed as power-to-x technologies. The Wikipedia names twelve different x’s: power-to-ammonia, power-to-chemicals, power-to-fuel, power-to-gas, power-to-heat, power-to-hydrogen, power-to-liquid, power-to-methane, power-to-mobility, power-to-food, power-to-power, and power-to-syngas. In addition, one could still think of many more.
+I want to give a brief introductive overview on these different approaches and then focus on the technologies, which are using carbon dioxide as a feedstock. Here the idea of power-to-x is combined with the aim of a closed carbon cycle. Emitted CO2 would be recycled to products, like fuels, plastics or fine chemicals. While today these are mainly produced form crude oil, in future they could be implemented in a sustainable process cycle. 
+
+For these carbon capture and utilization (CCU) concepts, like for example electrolysis of water coupled with a second catalytic CO2 reduction step or direct electrocatalytic CO2-reduction, I will present the technical working principles, the chemistry behind it and discuss possibilities and challenges. </description>
+<logo></logo>
+<persons>
+<person id='8883'>Jonas Geisler</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='0850ac34-342c-4352-89d5-6c31f0f1fe6b' id='10223'>
+<date>2019-08-24T20:00:00+02:00</date>
+<start>20:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10223-schleuderpackung_2_0</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10223.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>schleuderpackung 2.0</title>
+<subtitle>TeXnische Aspekte und Umsetzung in der DS-Redaktion</subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Technischer Überblick zum Build-Prozess der Datenschleuder. Vom LaTeX-Backend (schleuderpackung) über Continous Integration (Zentrifuge) zum PDF, Epub und HTML-Auszügen.</abstract>
+<description>Seit der Reanimation der Datenschleuder sind bisher drei Ausgaben erschienen. In dieser Zeit hat sich der technische Prozess deutlich professionalisiert. Der Vortrag gibt einen kurzen Überblick über die Redaktionsarbeit und fokussiert sich anschließend auf die TeXnische Umsetzung inklusive des Buildsystems und der unterschiedlichen Ausgabemodi (PDF/ePUB/HTML).
+
+Die Anwendung auf allgemeinere Zeitschriftenprojekte wird am Beispiel des Forks einer Schülerzeitung gezeigt und mit dem geplanten Release  zum Camp bietet sich damit die Möglichkeit der Nutzung für eigene Zeitschriftenprojekte. 
+
+Darüber hinaus liefert der Vortrag durch die Struktur der Schleuderpackung einen Einblick in aktuelle Entwicklungen aus dem LaTeX-Umfeld, wie expl3 Programmierung, die Lua Kopplung und die weitere Planung in Richtung Barrierefreiheit.</description>
+<logo></logo>
+<persons>
+<person id='8989'>marei</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='5af5134f-a56d-4a42-88e1-d179be98b8db' id='10351'>
+<date>2019-08-24T21:00:00+02:00</date>
+<start>21:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10351-from_the_sputnik_beep_to_messages_from_pluto</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10351.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>From the Sputnik &#39;Beep&#39; to messages from Pluto</title>
+<subtitle>Signals from Space 101</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>To tinker with receivers for space-signals, its good to know the different space communication standards. And to understand space standards, it doesn&#39;t hurt to get an overview of how to transmit data in the first place.</abstract>
+<description>Since the first &quot;beep&quot; from Sputnik, there have been many different artificial signals from satellites, capsules and space stations being send back to earth. These multitude of RF (and laser...) signals not only show how different mission requirements dictate the system design for different spacecrafts, but also chronicle advances in communication technology since the advent of the space age.
+So get to know how to understand the languages spoken by Voyager, GPS and satellite TV, and learn basics of RF communication in the process! </description>
+<logo></logo>
+<persons>
+<person id='6049'>INCO</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='2d4d7279-ed46-431f-919b-ed5dccfd7c90' id='10326'>
+<date>2019-08-24T22:00:00+02:00</date>
+<start>22:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10326-physical_unclonable_functions_the_future_technology_for_physical_security_enclosures</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10326.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Physical Unclonable Functions: The Future Technology for Physical Security Enclosures?</title>
+<subtitle></subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>In this talk, I will give an overview of the past, present, and possible future of physical security enclosures, i.e., the physical boundary that protects Hardware Security Modules (HSMs) and separates the untrusted outside from the secret data inside the module. I will present an analysis of the hardware security features in some selected HSMs, ranging from sensitive carbon meshes, over light detectors, up to temperature sensors. Since the security of these solutions has recently been questioned and some of them have been discontinued, new technologies have been proposed by several research groups, which will be presented in the second half of my talk. I will give insight into the current research regarding future solutions whose security is based on Physical Unclonable Functions (PUFs). Via this technology, cryptographic keys are extracted from intrinsic manufacturing variation of the enclosure itself. Thus, a violation of the delicate enclosure results in immediate loss of information and thereby voids cryptographic keys - in theory. Finally, I will discuss existing drawbacks and issues which have to be resolved, which currently prevent PUFs from protecting HSMs.</abstract>
+<description>Hardware Security modules (HSMs) in servers, such as for VPN or banking applications, are commonly protected via physical security enclosures. This boundary, which consists of a conductive mesh that entirely surrounds the module under protection, is continuously monitored to detect any physical intrusion and subsequently wipe critical data. Since attack tools have improved and some enclosure solutions have been discontinued, a desire for a new technology has emerged.
+
+At first, I present state-of-the-art solutions for HSMs which conform up to the highest security level: FIPS 140-2 level 4. Knowledge about these solutions was gained by accurate disassembly of such modules, obtained via a famous online market place. While some solutions have a very delicate mesh surrounding the entire device, others have additional light and temperature sensors that are countermeasures against common physical attacks.
+However, many physical security enclosures have been discontinued, sometimes due to suspected insecurity, thus, there is demand for a successor.
+
+The second part of my presentation focuses on a novel technology for enclosures, based on Physical Unclonable Functions (PUFs). These PUFs, which are currently investigated by several research groups, are uncontrollable minuscule manufacturing variations which are present, for example, in a conductive mesh of a security enclosure. One solution, that I am doing research at, is able to extract femto-farad (10^-15) capacitance variations from electric traces contained in the enclosure. Cryptographic keys are derived from the PUF which is subsequently used to encrypt the underlying system data. If an attacker damages the enclosure in an attempt to gain access, these delicate variations are altered, the key changes, and critical data cannot be recovered anymore.
+Despite PUFs provide real tamper-sensitive key storage, they are accompanied by some drawbacks, e.g., sensitivity to environmental conditions, aging, etc. which have to be tackled via additional means.
+
+Finally, I will discuss the current status of the development of PUF enclosures and outline the issues that have to be resolved to enable PUF-based security enclosures to secure future HSMs.
+
+(I will try to bring some real-world samples, so that there is the option to have a close look after the talk. However, I have to check this with my institute first.)
+
+About the presenter:
+
+I am currently doing my PhD at a research institute that focuses on embedded security. I am in the final phase of my dissertation about physical security enclosures, based on PUFs. This offers me a deep insight into the current development status of Physical Security Enclosures. In this talk, I want to share my experience with various solutions, from an analysis of a few up to the development of others. My goal is to discuss novel PUF-based solutions openly to raise awareness and to encourage more research into this interesting direction - from attacks up to countermeasures.</description>
+<logo>/system/events/logos/000/010/326/large/hsm.png?1560278463</logo>
+<persons>
+<person id='9019'>Johannes</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+</day>
+<day date='2019-08-25' end='2019-08-26T04:00:00+02:00' index='5' start='2019-08-25T09:00:00+02:00'>
+<room name='Curie'>
+<event guid='9150324f-d11c-48f6-9c0f-a0dbed7f2387' id='10317'>
+<date>2019-08-25T12:00:00+02:00</date>
+<start>12:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10317-fighting_back_against_libra_-_decentralizing_facebook_connect</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10317.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Fighting back against Libra - Decentralizing Facebook Connect</title>
+<subtitle>Nym Anonymous Authentication Credentials </subtitle>
+<track>Security</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The power of Facebook derives from its control over your digital identity. However, the fundamental technologies behind anonymous (attribute-based) authentication credentials have existed since the mid-90s. This talk will cover new advances in anonymous authentication credentials, how the work was nearly killed by Facebook, and their real-world implementation, including their use in the Nym project&#39;s mix-net, cryptocurrency, and decentralized messaging applications. </abstract>
+<description>How do we pratically defeat Facebook and build an anonymous internet? Let&#39;s start with the building blocks: Getting rid of Facebook Connect using decentralized and privacy-enhancing technologies, then using that as a lever to build the rest of the system.
+
+Anonymous authentication credentials have existed since early blind signature schemes, but have historically been both inefficient and required centralized (if often blind!) trusted third parties. New advances such as UnlimitID and the Coconut signature scheme have allowed the creation of &quot;Nym credentials&quot; that are both decentralized and privacy-preserving. We&#39;ll go into three use-cases:
+&lt;li&gt;&lt;b&gt;Mix-networks&lt;/b&gt; Credentials allow mix-nets, which provide anonymity at the network level in even a stronger manner than Tor, to both avoid spam (sybil) attacks and grow in a robust, decentralized manner, avoiding the need of proof of work algorithms.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Messaging&lt;/b&gt; In combination with the new IETF MLS (Message Layer Security) protocol to replace Signal, anonymous authentication credentials can enable a more privacy-preserving messenger.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Cryptocurrency&lt;/b&gt; If Facebook is building Libra, we&#39;ll show how we can take their fundamental design and make it - or any other cryptocurrency - privacy--preserving using Nym credentials&lt;/li&gt;
+
+Lastly, we&#39;ll review how we build the initial work using European Commission funding from NEXTLEAP and PANORAMIX, how Facebook nearly killed the project, and now how we are building from both non-profit and private sector sources, including hiring ex-Facebook employees to work on privacy. </description>
+<logo>/system/events/logos/000/010/317/large/nymlogo.jpg?1560274440</logo>
+<persons>
+<person id='7810'>Harry Halpin</person>
+</persons>
+<links>
+<link href='nymtech.net'>Nymtech</link>
+<link href='https://0xacab.org/jstuczyn/CoconutGo'>Nym Credential Codebase</link>
+<link href='http://www0.cs.ucl.ac.uk/staff/G.Danezis/papers/UnlimitID_WPES16.pdf'>UnlimitID</link>
+<link href='https://arxiv.org/abs/1802.07344'>Coconut Signature Scheme</link>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='abb70bc3-9d18-4db1-ad60-ddfd5c272944' id='10251'>
+<date>2019-08-25T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10251-why_nobody_cares_and_only_you_can_save_the_world</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10251.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Why Nobody cares, and only You can save the World</title>
+<subtitle>Technology, Intuitions &amp; Moral Expertise</subtitle>
+<track>Ethics, Society &amp; Politics</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>This talk aims to provide a possible explanation why most people seem to care very little about the unethicality of much of today’s technologies. It outlines what science and philosophy tell us about the biological and cultural evolutionary origins of (human) morality and ethics, introduces recent research in moral cognition and the importance of moral intuitions in human decision making, and discusses how these things relate to contemporary issues such as A(G)I, self-driving cars, sex-robots, “surveillance capitalism”, the Snowden revelations and many more. Suggesting an “intuition void effect” leading standard users to remain largely oblivious to the moral dimensions of many technologies, it identifies technologists as “learned moral experts”, and emphasizes their responsibility to assume an active role in safeguarding the ethicality of today’s and future technologies.</abstract>
+<description>Why is it that in a technological present full of unethical practices – from the “attention economy” to “surveillance capitalism”, “planned obsolescence”, DRM, and so on and so forth – so many appear to care so little? 
+
+To attempt to answer this question, the presentation begins its argument with an introduction into our contemporary understanding about the origins of (human) morality / ethics.  From computational approaches a la Axelrod’s Tit for Tat, Frans De Waal’s cucumber-throwing monkeys and Steven Pinker’s “Better Angles of our Nature”, to contemporary moral psychology and moral cognition and these fields’ work on moral intuitions. 
+
+As research in the last couple of decades in these fields suggest, it appears that much, if not most of (human) moral / ethical decision making is based on moral intuitions rather than careful, rational reasoning. Joshua Greene likens this to the difference between the “point-and-shoot” mode and the manual mode of a digital camera. Jonathan Haidt uses a metaphorical elephant (moral intuition) and his rider (conscious deliberation) to emphasize the difference in weight. These intuitions are the result of both biological and cultural evolution – the former carrying most of the weight. 
+
+The problem with this basis for our moral decision making is, as this presentation will argue, that 
+we have not (yet) had the time to evolve (both culturally and biologically), “appropriate” moral intuitions towards the technologies that surround us everyday, resulting in an “moral intuition void” effect. And without initial moral intuitions in the face of a technological artifact, neither sentiment nor reason may be activated to pass judgment on its ethicality. 
+
+This perspective allows for some interesting conclusions. Firstly, technologists (i.e. hackers, engineers, programmers etc.) for one, who exhibit strong moral intuitions toward certain artifacts have to be understood as “learned moral experts”, whose ability to intuitively grasp the ethical dimensions of a certain technology is not shared by the majority of users. 
+
+Secondly, users cannot be expected to possess an innate sense of “right and wrong” with regards to technologies. Thirdly, entities (such as for-profit corporations) need to be called out for making deliberate use of the “moral intuition void” effect.
+
+All in all, this presentation aims to provide a tool for thinking that may be put to use in various cases and discussions. It formulates the ethical imperative for technologists to act upon their expertise-enabled moral intuitions, and calls for an active “memetic engineering process” to “intelligently design” appropriate, culturally learned societal intuitions and responses for our technological present and future.</description>
+<logo>/system/events/logos/000/010/251/large/siUhMfp.jpg?1565095649</logo>
+<persons>
+<person id='5500'>Wilhelm Klein</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='ca82c94e-28b1-4c77-b7c1-0ab024a46c25' id='10339'>
+<date>2019-08-25T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10339-service_point_the_display</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10339.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>&quot;Service Point&quot; The Display</title>
+<subtitle>A tale of four generations</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The walls of CCC Berlin are filled with posters, analog as well as digital art, and also: a large LED display! The display is a proper piece of dual-use technology, serving both as hack material for fun and as a useful tool e.g. for taking notes during meetings.</abstract>
+<description>Come join us on a technology tour through the history of this fun piece of kit, starting with a look at the original hardware and software architecture and moving on through the many following software, hardware and mechanical hack generations in and around the display.
+
+The display has come quite far. Originally one could watch individual characters render on the 71680 LEDs, now 35 fps video playback is effortless, and it functions as a hub for collaborative visual expression using both text and graphics.
+
+Key words: 6502, CSS, Ethernet, ATXMEGA, JavaScript, Cortex-M3, WebSockets, AM335x, BeagleBone Black, PRU, Etherpad, CNC machining, Aluminium Welding</description>
+<logo>/system/events/logos/000/010/339/large/led_display800.jpg?1560285586</logo>
+<persons>
+<person id='2142'>Peter Stuge</person>
+<person id='9077'>mrflix</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='ebffdad1-55ef-4b66-b7cd-a170c801c147' id='10397'>
+<date>2019-08-25T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10397-c3power_monitoring_cccamp_19</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10397.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>c3Power Monitoring CCCamp 19</title>
+<subtitle>Strom in Bits und Bytes visualisiert</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Infastructure Review des Camp 2019 Stromnetz aus Sicht des auf der GPN in der Theorie vorgestellten Low Cost Power Monitoring. Aufbau des Monitoring-Netzes, Inbetriebname und Ergebnisse von Tag -1 bis Tag 4</abstract>
+<description>Wie verhält sich das Netz von c3Power auf dem Camp 2019 zu den verschiedene Tageszeiten, wie sieht die Auswertung von z.B. Lastverteilung, Netzoberwellen, Fehlerrate aus. Visualisierung der Daten in Grafana, Server Infrastruktur. Do:s and don&#39;t:s vom Aufbau der Hardware, Betrieb bei 50 Grad plus und 10 cm Wasserstand im Freien. Stabiltät des Campnetzes in den ersten 4 Tagen. Integration ins DMR Funknetz über MMDVM Hotspots zum absenden der Fehlermeldungen als DMR SMS. Abhandeln der Störmeldungen. Impressionen vom c3power Team während des Events.</description>
+<logo></logo>
+<persons>
+<person id='3701'>RFguy</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='4263620e-f36f-4408-b702-01481e0efbd7' id='10390'>
+<date>2019-08-25T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:45</duration>
+<room>Curie</room>
+<slug>Camp2019-10390-infrastructure_review</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10390.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Infrastructure Review</title>
+<subtitle></subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>en</language>
+<abstract></abstract>
+<description></description>
+<logo></logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='f5ef88a8-0fb3-4310-bb04-358db302a13b' id='10387'>
+<date>2019-08-25T18:00:00+02:00</date>
+<start>18:00</start>
+<duration>00:30</duration>
+<room>Curie</room>
+<slug>Camp2019-10387-closing_ceremony</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10387.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Closing ceremony</title>
+<subtitle></subtitle>
+<track>CCC</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>A farewell.</abstract>
+<description></description>
+<logo></logo>
+<persons>
+<person id='7797'>jinxx</person>
+<person id='4827'>smtw</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+<room name='Meitner'>
+<event guid='f828fab4-661b-4b16-836c-cdf786550e4d' id='10278'>
+<date>2019-08-25T13:00:00+02:00</date>
+<start>13:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10278-making_video_games_in_a_weekend</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10278.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Making video games in a weekend</title>
+<subtitle>The why and how of game jams</subtitle>
+<track>Art &amp; Culture</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>Are you curious about making your own video game? Game jams are a brilliant opportunity to try that, and a fun challenge for interdisciplinary teams of all skill levels! They&#39;re basically hackathons, but for video games - you&#39;re given a certain theme, and are encouraged to make a game around that in two or three days. In this talk, I want to empower and inspire you to try that yourself!
+
+When I first joined in the large, international game jam &quot;Ludum Dare&quot; in 2016, I found it a very rewarding experience, that got me in a flow-like state of mind. I liked it so much that I&#39;ve since participated 10 times in a row - at this point, I have tons of experience, which I want to share with you!</abstract>
+<description>This talk is split into three parts: First, I&#39;ll quickly go over the history of game jams, and introduce you to some of the largest ones, like Ludum Dare and the Global Game Jam.
+
+Second, I&#39;ll talk about my personal experience with game jams: I&#39;ll explain how I got into it, and showcase some games I worked on! I&#39;ll also share the development process behind them, and reflect on what went well and what didn&#39;t.
+
+And finally, I want to empower you to try this for yourself. Specifically, I&#39;ll explain how the &quot;Ludum Dare&quot; game jam works, and share some tips, tricks, and resources I have assembled over the years, that would have been useful for myself as I just was starting out.
+</description>
+<logo></logo>
+<persons>
+<person id='6697'>blinry</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='cd241757-8364-4eb1-8173-f049b54efca7' id='10272'>
+<date>2019-08-25T14:00:00+02:00</date>
+<start>14:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10272-die_zukunft_hat_zwei_wellen</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10272.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Die Zukunft hat zwei Wellen</title>
+<subtitle>Ein Blick auf die Zukunft der Freifunk-Hardware (und was wir mit der alten tun können)</subtitle>
+<track>Hardware &amp; Making</track>
+<type>lecture</type>
+<language>de</language>
+<abstract>Freifunk steht vor dem Abgrund, der Flash ist voll, der RAM ist zu klein, so löt doch einfach neuen ein? Wir betrachten hier die aktuellen Probleme die viele Communities mit ihrer Hardwarebasis erleben und betrachten die Vor- und Nachteile der verschiedenen Wege, diese Probleme zu lösen.</abstract>
+<description>Freifunk steht vor dem Abgrund, der Flash ist voll, der RAM ist zu klein, so löt doch einfach neuen ein? Wir betrachten hier die aktuellen Probleme die viele Communities mit ihrer Hardwarebasis erleben und betrachten die Vor- und Nachteile der verschiedenen Wege, diese Probleme zu lösen.
+
+Dabei schauen wir uns zurerst die aktuelle Entwicklung auf dem WLAN-Hardwaremarkt an und welche Unterstützung Gluon bereits für Moderne WLAN-Hardware bietet, wie man selber die Unterstützung neuer Hardware verbessern kann und dem angehenden Freifunker erleichtert das richtige Gerät für sich und seinen Anwendungsfall zu finden.
+
+Im Anschluss betrachten wir die aktuellen Herausforderungen die viele Communities gerade mit stark limitierter Hardware trifft und möchten auch einen Blick auf kommende Herausforderungen werfen.</description>
+<logo></logo>
+<persons>
+<person id='9053'>blocktrron</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+<event guid='9f38e10d-39e2-4380-83bf-26626396e476' id='10352'>
+<date>2019-08-25T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:45</duration>
+<room>Meitner</room>
+<slug>Camp2019-10352-visualization_of_networks_using_physics</slug>
+<url>https://fahrplan.events.ccc.de/camp/2019/Fahrplan/events/10352.html</url>
+<recording>
+<license></license>
+<optout>false</optout>
+</recording>
+<title>Visualization of networks using physics</title>
+<subtitle>How algorithms inspired by the laws of physics can create elegant and informative visual representations of complex networks</subtitle>
+<track>Science</track>
+<type>lecture</type>
+<language>en</language>
+<abstract>The beautifully complex structures often found in Nature arise from the collective interaction of huge numbers of particles moving under very simple forces.
+Starting from this fact, I will present how we can encode simple physical properties into large scale networks in a way that mimics a physical system and leads to elegant structures in 2d or 3d space. 
+After introducing some basic concepts, a large part of the talk will consist of animated demonstrations of network evolution towards a final layout. The talk is aimed at scientists and curious non-scientists alike.</abstract>
+<description>Large networks (graphs) appear in many types of human activity: computer, social, transportation, biological, and other networks that model the various connections and interactions in a system.
+Networks are often depicted visually as sets of points on a plane connected by lines - at large scales however, this image becomes too difficult to interpret due to high density of points and/or too many line crossings. So it is essential to determine an ideal placement of the network&#39;s parts in order to reveal its structure in the most clear and informative way.
+The laws of physics inherently contain dynamics capable of creating aesthetically appealing arrangements of high complexity, as can be seen in snowflakes, soap bubbles, crystals, or molecules in 3d space. By encoding physical qualities and dynamics in a network, we can leverage the laws of motion and the corresponding forces to let them shape the network. As the network is now acting like a physical system, it evolves towards a configuration of minimum energy and reaches a final state that exposes the symmetries, connected parts, and other features, in analogy to the wonderfully complex structures found in Nature.</description>
+<logo>/system/events/logos/000/010/352/large/network.png?1560351179</logo>
+<persons>
+<person id='9056'>aphotic</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+</room>
+</day>
+</schedule>

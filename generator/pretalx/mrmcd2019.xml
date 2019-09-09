@@ -1,0 +1,1113 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- Made with love by pretalx v1.0.3. -->
+<schedule>
+    <version>Railway Rivals</version>
+    <conference>
+        <acronym>2019</acronym>
+        <title>MRMCD 2019</title>
+        <start>2019-09-13</start>
+        <end>2019-09-15</end>
+        <days>3</days>
+        <timeslot_duration>00:05</timeslot_duration>
+        <base_url>https://talks.mrmcd.net/2019/schedule/</base_url>
+    </conference>
+    <day index='1' date='2019-09-13' start='2019-09-13T04:00:00+02:00' end='2019-09-14T03:59:00+02:00'>
+        <room name='Schlossallee'>
+            <event guid='5b2a4dd1-a63b-5793-bcd1-ddc2fc383ff8' id='216'>
+                <date>2019-09-13T17:30:00+02:00</date>
+                <start>17:30</start>
+                <duration>00:30</duration>
+                <room>Schlossallee</room>
+                <slug>2019-216-los</slug>
+                <url>https://talks.mrmcd.net/2019/talk/NRYC9G/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Los</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Ziehen Sie im Vor&#252;bergehen DM 4.000,&#8211; ein.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='186'>Team MRMCD</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='f5291093-81c8-51c5-916c-a8b888a51ef4' id='202'>
+                <date>2019-09-13T18:00:00+02:00</date>
+                <start>18:00</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-202-board-games-of-medieval-europe</slug>
+                <url>https://talks.mrmcd.net/2019/talk/9XL7SP/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Board Games of Medieval Europe</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Games have always been one of humankind&apos;s most favorite recreations. We will explore what games have been played in medieval times, mostly based on the works from Alfonso el Sabio, ca. 1283.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='177'>Pfeyffer</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='35cfa78e-40e3-5e53-a69a-fa03376839db' id='211'>
+                <date>2019-09-13T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>00:30</duration>
+                <room>Schlossallee</room>
+                <slug>2019-211-let-s-not-play-dice-what-scuba-diving-and-it-security-have-in-common</slug>
+                <url>https://talks.mrmcd.net/2019/talk/HTV33M/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Let&apos;s not play dice - what scuba diving and IT security have in common</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>There are certain situation in life where it is &#8211; mildly speaking &#8211; very
+brave to trust your luck.</abstract>
+                <description>Scuba diving and hacking certainly are among these. In this talk you
+will realize that these two things actually have a lot in common. You
+approach both worlds in the same way. There are rules to the game. But
+in both worlds you will not just blindly follow the instructions. You
+need your common sense.
+There is planing before a dive known as the briefing, there is a design
+phase of your system and software. In both cases you consider your next
+moves on the board. Constantly thinking: What shall happen? What can go
+wrong? What is the backup plan?
+While you are on the way and the game is going, you do your monitoring.
+You check for patches, you check for uptime, you take a close look at
+your pressure gauge and your dive computer. A scuba diver understands
+the need for integrity, for availability and the concept of risk management.
+For this talk I would like to compare some of the analysis and checking
+that both worlds have in common and invite you to see why both games are
+fairly worth to be played.</description>
+                <logo></logo>
+                <persons>
+                    <person id='179'>Katzenfreund</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='7e630029-555c-51fa-b4bc-f9277e513d1f' id='187'>
+                <date>2019-09-13T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-187-p-vs-np-vs-kryptographie</slug>
+                <url>https://talks.mrmcd.net/2019/talk/XP7URB/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>P vs. NP vs. Kryptographie</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Was sind die (theoretischen) Grundlagen daf&#252;r, dass Kryptographie existieren kann? Dass Kryptographie nicht existieren kann, wenn P=NP gilt, hat man vermutlich schon mal geh&#246;rt. Aber wof&#252;r stehen P und NP? Und existiert Kryptographie automatisch, wenn P!=NP gilt?</abstract>
+                <description>Ich versuche, die Fragen mit m&#246;glichst wenig ben&#246;tigtem Vorwissen zu beantworten. Der Vortrag wird jedoch moderate Mengen an Mathematik enthalten und ein wenig Vorwissen von Kryptographie hilft sicher beim Verst&#228;ndnis.</description>
+                <logo></logo>
+                <persons>
+                    <person id='36'>fxrh</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='bf49a550-3e2c-50c2-a09e-0fc1b1f43655' id='214'>
+                <date>2019-09-13T21:30:00+02:00</date>
+                <start>21:30</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-214-the-creep-in-your-pocket</slug>
+                <url>https://talks.mrmcd.net/2019/talk/H9CLD3/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>The creep in your pocket</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Mobile spyware/stalkerware services offer common users to spy on mobile devices of people close to them, such as their children or spouses. This talk presents different types of these services and touches their social impact.</abstract>
+                <description>The talk focuses on android and iOS spyware that do not require rooting or jailbreaking the victim&apos;s device. During the talk I will also show how Android spyware apps misuse Android OS features to spy on
+victims and hide themselves on their devices. Additionally, I will discuss the legal side of these services, as well as their social impact, such as domestic violence.
+
+Moreover, I will present several data breaches of these services. After giving recommendations on how to detect such services and protect against them, I will display a python tool I made, which queries the installed apps on an Android device and gives recommendations on whether they might be malicious.</description>
+                <logo></logo>
+                <persons>
+                    <person id='182'>Ahmad Abolhadid</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='ad4c2756-e7be-54a0-9e1c-33211cc66ae5' id='192'>
+                <date>2019-09-13T22:30:00+02:00</date>
+                <start>22:30</start>
+                <duration>00:30</duration>
+                <room>Schlossallee</room>
+                <slug>2019-192-artificial-poetry</slug>
+                <url>https://talks.mrmcd.net/2019/talk/UVFWXT/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Artificial Poetry</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Du tr&#228;gst einen Poeten bei dir. Er f&#228;llt dir nicht auf, doch immer ist er an deiner Seite, vervollst&#228;ndigt stets deine S&#228;tze und l&#228;sst dich nicht selten wie einen Idioten da stehen. 
+Wir lassen diesen Poeten nun frei. Lesen vor, was er zu sagen hat, wenn man ihn denn l&#228;sst..</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='172'>dnc</person><person id='185'>Netti</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Parkstrasse'>
+            <event guid='28d4743d-ce53-50be-859d-bb855aed76e9' id='212'>
+                <date>2019-09-13T19:00:00+02:00</date>
+                <start>19:00</start>
+                <duration>00:30</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-212-hk-franais-uvres-choisies-de-la-grande-nation</slug>
+                <url>https://talks.mrmcd.net/2019/talk/QMBR9Z/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>H&#230;&#231;k fran&#231;ais -  &#339;uvres choisies de la Grande Nation</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Let&apos;s dig in the archives of the French &quot;datenschleuder&quot; !</abstract>
+                <description>Once upon a time, back then in 1993 the Chaos Computer Club France started their own &quot;Datenschleuder&quot; : the &quot;Chaos Digest&quot;.
+But here&apos;s the twist : the CCCF was piloted by the french secret services to protect the interests of big companies and of the government.
+
+So what was going on in the six months of existence of this online service ? Let&apos;s find out, and as we will see, even more than 25 years later, some things never change&#8230;</description>
+                <logo>/media/2019/images/QMBR9Z/fin-du-minitel.trente-ans-dexistence-de-z.jpg</logo>
+                <persons>
+                    <person id='180'>@garfieldairlines</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='2966fdbd-20be-5871-9fa1-c2f5065fd701' id='207'>
+                <date>2019-09-13T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>00:50</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-207-geschichten-aus-der-cobol-gruft-was-der-mitspieler-sieht</slug>
+                <url>https://talks.mrmcd.net/2019/talk/3PHNS8/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Geschichten aus der COBOL-Gruft - was der Mitspieler sieht</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>In diesem Talk stelle ich den Transaktionsmonitor CICS vor, der unter Anderem f&#252;r die Kommunikation mit den Mitspielern in den Fachabteilungen zust&#228;ndig ist.</abstract>
+                <description>CICS ist ein auf Gro&#223;rechnern seit den 70ern eingesetztes System, um die Steuerung von Programmen mit Nutzerinteraktion und deren Ein- und Ausgabe zu verwalten und ressourcenschonend zu kommunizieren. Die Grundz&#252;ge dieses Systems werde ich in diesem Talk vorstellen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='109'>Habrok</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='794da72d-3b16-5665-b6be-93fd00d3c2f1' id='194'>
+                <date>2019-09-13T21:30:00+02:00</date>
+                <start>21:30</start>
+                <duration>00:30</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-194-eigene-spielfelder-erstellen</slug>
+                <url>https://talks.mrmcd.net/2019/talk/E7P3QY/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Eigene Spielfelder erstellen</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Ein kleiner Erfahrungsbericht welches (Lehr-) Geld man zahlt, wenn man auf die Idee kommt eigene Platinen zu erstellen.</abstract>
+                <description>Wenn man anf&#228;ngt sich mit Mikrocontolern zu besch&#228;ftigen kann man zu den Punkt gelangen, an dem man mit vorgefertigten Modulen nicht weiter zu kommen scheint.
+Sei es weil es f&#252;r bestimmte Funktionen keine passenden Module/Platinen lieferbar sind, der Platz nicht passt oder man f&#252;r den geplanten Einsatz so wilden Kabelsalat nicht vertraut. Eine eigene Platine scheint da eine gute L&#246;sung.
+Wie mein Weg ausgesehen hat, welche Fettn&#228;pfchen ich erwischt habe und warum ich es trotzdem nicht bereue.</description>
+                <logo></logo>
+                <persons>
+                    <person id='25'>Johannes Formann</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Workshopraum'>
+            <event guid='32a669ad-519e-53f9-adbc-6e9e5cd73545' id='208'>
+                <date>2019-09-13T20:30:00+02:00</date>
+                <start>20:30</start>
+                <duration>01:30</duration>
+                <room>Workshopraum</room>
+                <slug>2019-208-cluedo-for-clueless-computers</slug>
+                <url>https://talks.mrmcd.net/2019/talk/QCGQTT/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Cluedo for Clueless Computers</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Workshop</type>
+                <language>de</language>
+                <abstract>Hat der Computer den Grafen von Eutin mit dem Dolch im Wintergarten ermordet? Wohl nicht. Aber kann er rausfinden, wer es war? Bestimmt! In diesem Workshop wollen wir gemeinsam dem Computer beibringen, wie man Cluedo spielt.</abstract>
+                <description>Wer schonmal Cluedo gespielt hat (w&#228;re eine gute Voraussetzung, um diesen Workshop zu besuchen) wei&#223;, dass neben ein bisschen Gl&#252;ck einiges an Taktik n&#246;tig ist. Man muss an vielen Stellen kleine Entscheidungen treffen (z.B.: In welchen Raum gehe ich als n&#228;chstes? Welche von den beiden passenden Karten zeige ich jetzt der fragenden Person) und sich explizite und implizite Informationen merken (z.B.: Welche Karten habe ich gesehen? Welche Karten k&#246;nnten sich gerade meine Mitspielenden gezeigt haben?). Das wollen wir jetzt dem Computer beibringen, damit er endlich auch mitspielen kann.
+
+Ich bringe eine simple Implementierung des Spiels samt API mit und dann k&#246;nnen wir einzelne Handlungen implementieren. Je nach Teilnehmer\*innenzahl k&#246;nnen wir gemeinsam einen Computerspieler implementieren oder sogar mehrere, die dann gegeneinander antreten k&#246;nnen.
+
+Der Code wird &#252;ber GitHub verwaltet und soll unter der AGPL stehen.
+
+Notwendige Vorkenntnisse: Python 3, Git, Cluedo-Regeln</description>
+                <logo></logo>
+                <persons>
+                    <person id='133'>Benjamin</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='2' date='2019-09-14' start='2019-09-14T04:00:00+02:00' end='2019-09-15T03:59:00+02:00'>
+        <room name='Schlossallee'>
+            <event guid='9a497fd7-62b4-5b5b-bf09-5dd123d18305' id='188'>
+                <date>2019-09-14T12:10:00+02:00</date>
+                <start>12:10</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-188-bahn-api-chaos-jetzt-international</slug>
+                <url>https://talks.mrmcd.net/2019/talk/P3SLQX/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Bahn API Chaos - jetzt international</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Ein &#220;berblick &#252;ber das HAFAS und die Datengrundlage.
+Wie sieht die Datenlage international aus? Was wei&#223; die &#214;BB &#252;ber Deutsche Fahrten. Was wei&#223; die DB? Passt das zusammen?</abstract>
+                <description>Nach dem &#220;berblick &#252;ber reine DB APIs auf der GPN19 (https://media.ccc.de/v/gpn19-67-bahn-api-chaos) diesmal ein &#220;berblick &#252;ber das HAFAS. Die Fahrplanauskunft der DB und vieler anderer Verkehrsbetriebe. Wie sieht die Datenlage aus? Was wei&#223; die &#214;BB &#252;ber die DB und andere regionale Verkehrsbetriebe?</description>
+                <logo></logo>
+                <persons>
+                    <person id='18'>marudor</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='a059fb6b-edcb-58a6-8609-6bc409b6b943' id='204'>
+                <date>2019-09-14T13:10:00+02:00</date>
+                <start>13:10</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-204-feeling-at-home-in-tech</slug>
+                <url>https://talks.mrmcd.net/2019/talk/REX9YH/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Feeling at Home in Tech</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>The Google Memo was not the first and will not be the last sexism discussion in tech. And the problems do not end there. 
+Tech has a diversity problem, and discussions about inclusion, welcoming culture, toxic behaviour, discrimination and the reasons why people are leaving the field can and should not be ignored.
+
+This talk asks why people do not feel at home in tech, examines why it is so important that they do, discusses requirements for improvement, and suggests some first steps we can all take to change this.
+Come by and hear why a summer coding camp for school girls might be a good thing, but not the answer to our problems.</abstract>
+                <description>The Pay Gap, the Pipeline Problem, and the Glass Ceiling have been discussed, in society as a whole, as well as in the tech industry for years. Every now and then, a scandal fires up the discussions ageing, adds new facettes, or gives focus to another group of people.
+
+However, inbetween  there is a constant flow of reports and anecdotes of those people that do not feel as at home in tech as they want to. Not everyone interested in the subject matter finds their place -- and it is not a matter of lack of tasks, or versatility of the field. And it is also not a matter of isolated incidents.
+
+Across its spectrum and locations tech has a diversity problem: Those already underrepresented leave the field.
+Why is it that so many do not feel welcome here? How come tolerance can lead to exclusion? Why does not everybody have the same chance of success?
+
+And why do we definitely need to change that?
+
+Inclusion and diversity are not a matter of &quot;nice-to-have&quot;. They are a basis of success. It is time for excuses to stop and for everyone in the field to do their part.
+This is not an instruction manual to make everything better. But maybe it is food for thought and an inspiration for what can be done.</description>
+                <logo></logo>
+                <persons>
+                    <person id='44'>Nana</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='a2846627-02c2-5acf-a729-e8bd700766ce' id='197'>
+                <date>2019-09-14T14:10:00+02:00</date>
+                <start>14:10</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-197-unehrliche-rhetorik</slug>
+                <url>https://talks.mrmcd.net/2019/talk/KMYUJM/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Unehrliche Rhetorik</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Scheinargumente, kognitive Verzerrungen und verbale Taschenspielertricks erkennen und entkr&#228;ften.</abstract>
+                <description>Nicht jede sachliche Diskussion wird von allen Teilnehmern auch sachlich gef&#252;hrt. 
+Manche Leute wollen einfach nur ihren Standpunkt durchsetzen, egal welche sachlichen Argumente dem entgegenstehen. Dazu benutzen Sie &#8222;unehrliche&#8220; rhetorische Techniken, die mittels verschiedener verbaler und psychologischer Tricks die Gegner und Gegenargumente als falsch oder l&#228;cherlich darzustellen versuchen. 
+Gerade in Talkshows mit Politikern oder bei Meetings mit hochrangigen Managern werden solche Techniken oft eingesetzt. 
+
+Dieser Workshop zeigt einige dieser Techniken auf, wie man sie erkennt und wie man sich gegen sie wehren kann.
+
+Basierend auf Schoppenhauers *&#8222;38 Kunstgriffe - Die Kunst, Recht zu behalten&#8220;.*</description>
+                <logo></logo>
+                <persons>
+                    <person id='174'>G&#246;tz Bundschuh</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='955e622a-3b92-570b-8b83-e9ff351c7be1' id='181'>
+                <date>2019-09-14T16:30:00+02:00</date>
+                <start>16:30</start>
+                <duration>00:30</duration>
+                <room>Schlossallee</room>
+                <slug>2019-181-alles-daten-panne-</slug>
+                <url>https://talks.mrmcd.net/2019/talk/EWJC83/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Alles (Daten-)Panne?</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>In diesem Talk wird auf die Regeln der Datenschutz-Grundverordnung bei vermuteten oder best&#228;tigten Datenpannen anhand von Beispielen eingegangen.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='162'>FrauHase</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='a60229dc-6ec6-54bd-936f-2f25876de7aa' id='179'>
+                <date>2019-09-14T17:10:00+02:00</date>
+                <start>17:10</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-179-trivial-ux-does-my-unicorn-have-the-perfect-ui-</slug>
+                <url>https://talks.mrmcd.net/2019/talk/3ZXCFX/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Trivial UX - Does my unicorn have the perfect UI?</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Usability and User eXperience are not always part of development processes. Usability tests can be done for both software and products in general. I would like to give a short overview of how usability tests work and what you can do to improve usability and user experience. I will demonstrate usability tests using the example of my unicorn. In a second step I will provide examples of web pages.</abstract>
+                <description>I would like to include the audience into this talk (comments, answering questions and so on). So if you do not want to be asked, just take a seat somewhere. If you would like to participate, think about taking a seat in one of the rows closer to me, so that I will understand your comments a little bit better.</description>
+                <logo>/media/2019/images/3ZXCFX/Greenie.jpeg</logo>
+                <persons>
+                    <person id='160'>heavy</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='afd33cdf-91d5-5c90-8110-8c0bc42ad994' id='191'>
+                <date>2019-09-14T18:10:00+02:00</date>
+                <start>18:10</start>
+                <duration>00:30</duration>
+                <room>Schlossallee</room>
+                <slug>2019-191-hacking-magic-the-gathering-</slug>
+                <url>https://talks.mrmcd.net/2019/talk/ZS39EP/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Hacking Magic (the Gathering)</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Eine nicht vollst&#228;ndige Untersuchung, an welchen Stellen in Magic the Gathering die krassesten Combos lauern. Grundregelkenntnisse werden im Vortrag vorausgesetzt.</abstract>
+                <description>Magic the Gathering hat als Spielprinzip, die eigenen Regeln zu brechen oder wenigsten soweit auszunutzen, wie es geht.
+In dem Talk werden wir uns die Kernmechaniken des Spiel angucken, untersuchen, wo man welche Regeln am besten brechen und ausnutzen kann. Der Talk wird einiges an kurzweiligen Anekdoten aus der Magic Geschichte enthalten.</description>
+                <logo></logo>
+                <persons>
+                    <person id='169'>R&#252;diger Klings</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='1d40b357-5014-5e35-964e-8bba2ed866c1' id='205'>
+                <date>2019-09-14T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-205-cheating-ai-wenn-menschen-die-ki-hacken</slug>
+                <url>https://talks.mrmcd.net/2019/talk/VHBPEX/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Cheating AI - Wenn Menschen die KI hacken</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Na Computer, wei&#223;t du, was du da siehst und h&#246;rst? Ne, falsch. Reingelegt! 
+
+KI-Systeme k&#246;nnen inzwischen viele Dinge beeindruckend gut. Wie es zu erwarten war haben Menschen inzwischen ebenso beeindruckende und besonders kreative, aber vor allem effektive Wege entwickelt diese Systeme auszutricksen.</abstract>
+                <description>Dank Maschinellem Lernen werden Computer heute f&#252;r viele Aufgaben eingesetzt, die Menschen auf Dauer zu langweilig f&#228;nden, die Menschen nicht gut k&#246;nnen und bei denen es zu teuer oder zu langsam w&#228;re, sie von Menschen erledigen zu lassen. Zu diesen Aufgaben geh&#246;rt das Erkennen von Objekten in Bildern, das Transkribieren von Sprache, das automatische Abgleichen von Gesichtern und das &#220;bersetzen von gro&#223;en Textmengen.
+
+Alle diese Aufgaben haben gemeinsam, dass sie nicht mit ein paar verschachtelten Bedingungen zu l&#246;sen sind. Stattdessen wird der Computer in irgendeiner Form trainiert -- er lernt die Aufgabe zu bew&#228;ltigen. Dabei entstehen Systeme, die sehr gut sind in dem was sie tun, aber nicht erkl&#228;ren k&#246;nnen wie sie Entscheidungen treffen oder zu ihren Ergebnissen kommen. Das birgt Risiken (bzw. je nach Perspektive auch Chancen), dass Menschen &quot;falsch spielen&quot; und den Computer sp&#228;ter an der Nase herumf&#252;hren.
+
+Welche Systeme das zum Beispiel sind, was sie k&#246;nnen, wie man sie austricksen kann und warum Menschen das tun, gew&#252;rzt mit einer geh&#246;rigen Portion Humor wollen wir euch anekdotisch erz&#228;hlen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='44'>Nana</person><person id='133'>Benjamin</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='d37118e7-992d-5e2a-92cb-890b437b96b6' id='185'>
+                <date>2019-09-14T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-185-playing-with-bluetooth</slug>
+                <url>https://talks.mrmcd.net/2019/talk/AQQDEL/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Playing with Bluetooth</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Rolling out patches for Bluetooth firmware is hard for vendors, but it is a lot of fun if you can do it yourself!</abstract>
+                <description>Current state of our Bluetooth hacking projects related to InternalBlue and Nexmon. We will tell you more about some details, but in an entertaining way.
+
+We almost won a code staring contest, because we did not use the right terms to search for leaked source code and hidden symbols. We spent hundreds of Euros on a new smartphone just to see that it announces another firmware version than what is actually inside&#8212;and to confirm that the vendor knew about a vulnerability we believed to be undiscovered. We enthusiastically bought the new Raspberry Pi 4, which was announced to have Bluetooth 5.0, but in fact has the same chip as the Raspberry Pi 3+.</description>
+                <logo></logo>
+                <persons>
+                    <person id='137'>Dennis Mantz</person><person id='165'>jiska</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='37fd78d6-c46a-54a4-a66b-fe655aa11c1b' id='199'>
+                <date>2019-09-14T22:00:00+02:00</date>
+                <start>22:00</start>
+                <duration>00:30</duration>
+                <room>Schlossallee</room>
+                <slug>2019-199-satellite-internet-the-next-generation</slug>
+                <url>https://talks.mrmcd.net/2019/talk/3J8CYV/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Satellite Internet: The next generation</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Internet &#252;berall da, wo es keine Infrastruktur gibt: Bislang ist das &#252;ber Satelliten bereits m&#246;glich. Die Latenzen sind dabei aber enorm, und die Bandbreite verh&#228;ltnism&#228;&#223;ig gering. 
+In diesem Talk schauen wir in die Zukunft - und dabei insbesondere auf einige der geplanten Megakonstellationen, die teils globale Abdeckung erreichen und die &#220;bertragungskapazit&#228;ten steigern wollen.
+Besonders interessant sind dabei die geplanten Konstellationen von Telesat, SpaceX und OneWeb: Alle haben bereits eine oder mehrere Demomissionen absolviert, und Teile der Architektur sind bekannt.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='176'>margau</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Parkstrasse'>
+            <event guid='9b1a393c-1dcd-53a0-85cd-523b4b078487' id='178'>
+                <date>2019-09-14T12:10:00+02:00</date>
+                <start>12:10</start>
+                <duration>00:50</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-178-let-s-get-physical-eine-einfhrung-in-physische-penetrationstests</slug>
+                <url>https://talks.mrmcd.net/2019/talk/UY7EUS/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Let&#8217;s Get Physical &#8211; Eine Einf&#252;hrung in physische Penetrationstests</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Physische Penetrationstests, auch Physical Security Assessments oder Realtests, die oft im Rahmen eines Red Teamings durchgef&#252;hrt werden, kombinieren althergebrachte Methoden und Werkzeuge von Spionen und Einbrechern mit modernen Hacking-Tools. Dieser Talk stellt einige dieser Techniken und Werkzeuge vor und zeigt anhand von Praxisbeispielen, worauf es bei der Planung, Vorbereitung und Durchf&#252;hrung ankommt.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='127'>Michael Wiesner</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='6c30abce-5670-5497-bebd-523a5b6f9200' id='206'>
+                <date>2019-09-14T13:10:00+02:00</date>
+                <start>13:10</start>
+                <duration>00:30</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-206-proprietre-protokolle-untersuchen</slug>
+                <url>https://talks.mrmcd.net/2019/talk/YNDHPX/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Propriet&#228;re Protokolle untersuchen</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Werkzeuge und Forschung zum Thema Unterst&#252;tztes bzw. Automatisches Reverse Engineering von (Netzwerk-)Protokollen</abstract>
+                <description>Viele Programme und IOT-Ger&#228;te kommunizieren z.B. &#252;ber das Internet mit Servern des Herstellers. Diese Kommunikation erfolgt oft &#252;ber undokumentierte, propriet&#228;re Protokolle. Um Datenschutz und Sicherheit unabh&#228;ngig vom Hersteller untersuchen zu k&#246;nnen, muss man zun&#228;chst diese Protokolle verstehen. 
+
+Ausgangspunkt ist oft Wireshark, ein Open-Source-Programm mit dem man Netzwerkverkehr mitschneiden kann, und welches viele bereits bekannte Protokolle automatisch analysiert. Unbekannte Protokolle werden zun&#228;chst als hexdumps dargestellt. Darin Muster und Datenfelder zu erkennen, zu beschreiben und zu verifizieren ist ein manueller Vorgang, der viel auf Erfahrung und Fingerspitzengef&#252;hl beruht.
+
+In meiner Masterarbeit untersuche ich Tools, mit denen der Computer dabei unterst&#252;tzen und Teilschritte automatisieren kann, und m&#246;chte diese zu einem benutzerfreundlichen Werkzeug verbinden und weiterentwickeln.
+
+In diesem Vortrag m&#246;chte ich einige dieser bestehenden Ans&#228;tze sowie meine eigene Arbeit vorstellen. Au&#223;erdem interessiere ich mich f&#252;r Feedback, welche Features und Unterst&#252;tzung ihr euch w&#252;nschen w&#252;rdet.</description>
+                <logo></logo>
+                <persons>
+                    <person id='170'>Max Weller</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='e6ea7c20-739e-5027-90b7-b362644c24cc' id='189'>
+                <date>2019-09-14T14:10:00+02:00</date>
+                <start>14:10</start>
+                <duration>00:50</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-189-security-fr-euren-krper-multiresistente-keime</slug>
+                <url>https://talks.mrmcd.net/2019/talk/YR7FHB/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Security f&#252;r euren K&#246;rper - multiresistente Keime</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Dieser Vortrag richtet sich an Lebewesen, die Keime in und auf sich tragen - ja, auch du hast ein Mikrobiom! ;)
+
+Ich spreche einsteigerfreundlich &#252;ber die Themen:
+- was sind Bakterien und was machen die eigentlich so?
+- wie entstehen und funktionieren Resistenzen?
+- was sind multiresistente Keime? wo kommen sie vor? warum breiten sie sich aus?
+- worauf kann ich pers&#246;nlich achten? wie desinfiziere ich richtig meine H&#228;nde?
+- das neue Antivir - mit Bakteriophagen gegen die Superbugs (30 Tage Testversion wird beim Vortrag verteilt)
+
+wenn ich fertig bin, k&#246;nnt ihr euch mit der Security f&#252;r eure K&#246;rper befassen. 
+(no pentests please)</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='167'>gurke</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='f31f31a9-edc5-5aa8-94e9-3bcbf87c7b4a' id='193'>
+                <date>2019-09-14T16:30:00+02:00</date>
+                <start>16:30</start>
+                <duration>00:30</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-193-rc-cars-in-xxxl</slug>
+                <url>https://talks.mrmcd.net/2019/talk/9ZYWEB/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>RC-Cars in XXXL</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Ein kurzer &#220;berblick &#252;ber die M&#246;glichkeiten (und Grenzen) der Digitalisierung in der Landwirtschaft, was OpenSource dazu beitragen kann am Beispiel von automatischen Lenksystemen und was noch alles fehlt.</abstract>
+                <description>Neben einer kurzen allgemeinen &#220;bersicht was im Bereich Digitalisierung in der Landwirtschaft alles schon existiert m&#246;chte ich auf OpenSource Projekte eingehen, insbesondere AgOpenGPS und verwandte Projekte, die einen Trecker (fast) autonom arbeiten lassen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='25'>Johannes Formann</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='769f2b18-15e8-5bd9-bc20-fd25befe8c0b' id='186'>
+                <date>2019-09-14T17:10:00+02:00</date>
+                <start>17:10</start>
+                <duration>00:50</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-186-kommunikation-1000-bis-kommunikation-2000</slug>
+                <url>https://talks.mrmcd.net/2019/talk/YMXYW8/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Kommunikation 1000 bis Kommunikation 2000</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Der Austausch von Informationen ist so alt wie die Menschheit selbst. Doch Kommunikation ist Ver&#228;nderungen unterworfen und hat vom Hohen Mittelalter bis in unsere Zeit eine gewaltige Entwicklung erfahren.</abstract>
+                <description>Der Austausch von Informationen ist so alt wie die Menschheit selbst. Doch Kommunikation ist Ver&#228;nderungen unterworfen und hat vom Hohen Mittelalter bis in unsere Zeit eine gewaltige Entwicklung erfahren.
+
+Um die einmalige Dynamik der Gegenwart einordnen zu k&#246;nnen, lenken wir den Blick zun&#228;chst zur&#252;ck in eine Zeit, als das Schreiben nur wenigen gebildeten Menschen vorbehalten war und B&#252;cher noch handschriftlich vervielf&#228;ltigt werden mussten. Erst mit dem Buchdruck, 1454 der gr&#246;&#223;te Meilenstein des vergangenen Jahrtausends, konnten B&#252;cher schneller, g&#252;nstiger und in gr&#246;&#223;erer Auflage hergestellt werden. Der Buchdruck beschleunigte gelehrte Dispute und trug ganz erheblich zur Reformation bei, die wiederum die geistliche und politische Welt ver&#228;nderte. Neben die Kommunikation eines Einzelnen mit einem Einzelnen trat die &#220;bermittlung von Informationen an ein gr&#246;&#223;eres Publikum.
+
+Dieses Jahrhunderte bestehende System erfuhr mit der industriellen Revolution einen erneuten Schub. Nachrichten gelangten durch kabelgebundene oder drahtlose Kommunikation schnell &#252;ber alle Erdteile, moderne Druckverfahren verbilligten die Erzeugnisse zur Massenware.
+
+Doch erst mit der in den 1980er Jahren beginnenden Computertechnologie kann man von einem neuen Kommunikationszeitalter sprechen. Alle k&#246;nnen nunmehr jederzeit miteinander in Verbindung treten &#8211; schnell, unmittelbar, ohne r&#228;umliche Beschr&#228;nkung und seit der Jahrtausendwende sogar mobil.
+
+Der Blick in die Vergangenheit soll verdeutlichen, wie rasend schnell sich die moderne Kommunikationstechnik entwickelt und welche ungeahnten M&#246;glichkeiten sie mit sich bringt.</description>
+                <logo></logo>
+                <persons>
+                    <person id='149'>Christoph Regulski</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='aa53b942-2716-5a1c-9dfe-563570f742e2' id='184'>
+                <date>2019-09-14T18:10:00+02:00</date>
+                <start>18:10</start>
+                <duration>00:30</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-184-certificate-pinning-for-the-rest-of-us</slug>
+                <url>https://talks.mrmcd.net/2019/talk/H8XDK8/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Certificate Pinning For The Rest Of Us</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>A talk about the utterly broken chain of trust of SSL/TLS certificates and certificate pinning in the browser as a means to take back control.</abstract>
+                <description>Web browser developers have been betrayed by the SSL/TLS chain of trust more than once in the past. As a result they are now pinning their own certificates which means that they only trust a particular issuer. This talk gives an overview how the chain of trust works, of potential attack vectors, presents remedies that were tried and explains why they were largely unsuccessful. Finally a solution is presented how the rest of us can also regain control with a Firefox plugin that pins certificates of our choosing and warns when nasty things happen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='164'>Heurekus</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='4cea7604-1f84-5345-8ebd-4c745fef76eb' id='209'>
+                <date>2019-09-14T20:00:00+02:00</date>
+                <start>20:00</start>
+                <duration>00:50</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-209-challenge-blob-free-mainline-open-source-software-on-a-single-board-computer-sbc-arm64-foss-efi-</slug>
+                <url>https://talks.mrmcd.net/2019/talk/BTUCFG/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Challenge : BLOB FREE : mainline open source software on a single board computer (sbc, arm64, foss, efi)</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Dondon teilt seine Erfahrungen mit dem SBC und geht im Vortrag auf die Erstellung eines Debian-Systems mit mainline Kernel und mainline u-boot ein. Der Bootvorgang wird ausf&#252;hrlich erl&#228;utert.
+Es soll eine Diskussion entstehen inwieweit bereits proproiet&#228;re Systeme und Binary-Blobs ausgeschlossen werden konnten und k&#252;nftig m&#246;glichst vollst&#228;ndig substituiert werden k&#246;nnen.
+
+Dondon shares his expirience with a SBC (single board computer) and speaks about the installation of a pure debian system with mainline kernel und mainline u-boot. The booting sequence will be described in detail.
+The presentation will be followed by a discussion propritary systems and binary blobs can be  eliminated and replaced with opensource software and hardware in the future.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='171'>dondon</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='b9dd4bc6-6773-5dd4-b28e-8ea066f36d22' id='203'>
+                <date>2019-09-14T21:00:00+02:00</date>
+                <start>21:00</start>
+                <duration>00:50</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-203-meine-zeit-im-recurse-center</slug>
+                <url>https://talks.mrmcd.net/2019/talk/ARZGCP/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Meine Zeit im Recurse Center</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Das [Recurse Center](https://recurse.com) ist laut Selbstbeschreibung &quot;a self-directed, community-driven educational retreat for programmers in New York City&quot;. Ich habe dort im Fr&#252;hjahr drei Monate verbracht, und m&#246;chte euch von meinen Erfahrungen erz&#228;hlen.</abstract>
+                <description>Das Recurse Center versteht sich als laufendes Experiment, wie man eine gesunde, diverse, und integrative Community baut und aufrecht erh&#228;lt. &#220;ber die Jahre sind dort viele Strukturen und Traditionen entstanden, die mir sehr gefallen haben, wie das w&#246;chentliche *feelings check-in*, oder der *coffee chat bot*, der zu einer schnellen Vernetzung innerhalb der Community beitr&#228;gt. Viele Ideen halte ich f&#252;r &#252;bertragbar auf andere Communities.
+
+Es gibt vier einfache soziale Regeln, die zu einem respektvollen Miteinander beitragen, und zu einer Umgebung, in der sich die Leute voll darauf konzentrieren k&#246;nnen, voneinander zu lernen. Und was inhaltlich dort passiert, ist vollst&#228;ndig von den Teilnehmenden gestaltet &#8211; in sie wird das Vertrauen gesetzt, selbst am besten zu wissen, wie sie ihre Zeit dort strukturieren wollen, ganz im Sinne der Unschooling-Bewegung.
+
+Dies wird ein sehr pers&#246;nlicher Vortrag, in dem ich sowohl von dem Rahmen erz&#228;hlen m&#246;chte, als auch von den Menschen, die ich dort kennen lernen durfte, und schlie&#223;lich auch davon, was ich inhaltlich dort so gemacht habe.</description>
+                <logo></logo>
+                <persons>
+                    <person id='141'>blinry</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Workshopraum'>
+            <event guid='62811d0f-dd16-5893-9e70-22f3189346c0' id='200'>
+                <date>2019-09-14T15:00:00+02:00</date>
+                <start>15:00</start>
+                <duration>01:30</duration>
+                <room>Workshopraum</room>
+                <slug>2019-200-freifunk-meetup</slug>
+                <url>https://talks.mrmcd.net/2019/talk/QDJENU/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Freifunk Meetup</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Workshop</type>
+                <language>de</language>
+                <abstract>Treffen der Freifunk Community</abstract>
+                <description>Wie jede MRMCD gibt es auch dieses Jahr ein Freifunk Treffen. Wir wollen uns zu aktuellen &#252;berregionalen Themen austauschen.</description>
+                <logo></logo>
+                <persons>
+                    <person id='105'>Skorpy</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='d1bedec9-5188-501d-a12a-9708cd14b3ac' id='190'>
+                <date>2019-09-14T18:45:00+02:00</date>
+                <start>18:45</start>
+                <duration>01:30</duration>
+                <room>Workshopraum</room>
+                <slug>2019-190-hacker-eg-die-werkkooperative-der-technikfreundinnen</slug>
+                <url>https://talks.mrmcd.net/2019/talk/TALHAS/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Hacker eG - die Werkkooperative der Technikfreundinnen</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Workshop</type>
+                <language>de</language>
+                <abstract>#### Eine Idee geht um im Chaos, die Idee von einer Hackergenossenschaft. Wir nennen sie: Werkkooperative der Technikfreundinnen (WTF eG. Hacken in guter Genossenschaft.) 
+Dieser Workshop wird dazu bef&#228;higen, das WTF-Projekt zu begreifen, seine M&#246;glichkeiten zu erkennen und die Anwendung von IT-Sicherheitsfragen auf dieses Konzept zu diskutieren.</abstract>
+                <description>*Seit fast 3 Jahren wird im Chaos diskutiert, den Chaoten einmal eine Firma an die Hand zu geben, in die sie bei Bedarf ein- und austreten k&#246;nnen und dort $Dinge tun k&#246;nnen, die mit Geld und B&#252;rokratie zu tun haben, ohne sich diese M&#252;hen selbst zuzuziehen.* 
+Idee und Menge der F&#246;rderer sind seitdem gewachsen, &#252;ber 100 Gr&#252;nder haben im VEBIT e.V.  &#252;ber 10000 &#8364; aufgebracht, um &#252;berhaupt die n&#246;tigsten Gr&#252;ndungskosten zu decken. Bis zum 36c3 m&#246;chten wir 200 Gr&#252;nder mit &#252;ber 20k Ingangsetzungskostendeckung haben. Und anfang 2020 soll die neue Genossenschaft dann in den B&#252;chern stehen.
+
+Zur Grundidee taugt immer noch dieses Video vom 35c3 : https://media.ccc.de/v/35c3chaoswest-37-hacker-eg-genossenschaft-fr-chaosnahes-wirtschaften
+
+Kurzinfos gibt es hier: https://git.vebit.xyz/vebit/wiki/src/branch/master/30Sekunden.txt und hier: https://git.vebit.xyz/vebit/wiki/src/branch/master/Flyer0912.pdf
+
+Wir m&#246;chten auch auf dieser Veranstaltung den anwesenden Hacker eG - Gr&#252;ndern ein F2F-Forum bieten, und neuen Interessenten die M&#246;glichkeit zu Information und Austausch, und der Chaos&#246;ffentlichkeit ein weiteres Beispiel aktiven Hackertums. Diesmal hacken wir Wirtschaft. Schlie&#223;lich werfen wir einen Blick auf genossenschaftliche Betriebsformen unter dem Bickwinkel der IT-Sicherheit.</description>
+                <logo>/media/2019/images/TALHAS/logogelb1.png</logo>
+                <persons>
+                    <person id='168'>ajuvo</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='a823ed4c-31f0-5fca-9713-f120472e0875' id='210'>
+                <date>2019-09-14T22:30:00+02:00</date>
+                <start>22:30</start>
+                <duration>01:30</duration>
+                <room>Workshopraum</room>
+                <slug>2019-210-backspace-analogabend-mrmcd-edition</slug>
+                <url>https://talks.mrmcd.net/2019/talk/ZH7Y9E/</url>
+                <recording>
+                    <license></license>
+                    <optout>true</optout>
+                </recording>
+                <title>Backspace Analogabend MRMCD Edition</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Workshop</type>
+                <language>de</language>
+                <abstract>Der Backspace bringt eine Sammlung an beliebten und einsteigerfrundlichen Spielen aus seinem dwoechentlichen Spieleabend mit.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='178'>xAndy</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='3' date='2019-09-15' start='2019-09-15T04:00:00+02:00' end='2019-09-16T03:59:00+02:00'>
+        <room name='Schlossallee'>
+            <event guid='fe835824-3b1b-5d02-86a7-09098145c1dc' id='218'>
+                <date>2019-09-15T12:20:00+02:00</date>
+                <start>12:20</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-218-wie-hackback-mit-der-gesellschaft-spielt</slug>
+                <url>https://talks.mrmcd.net/2019/talk/CNRWVN/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Wie Hackback mit der Gesellschaft spielt</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Hackback-Quartett spielt doch heutzutage jedes hippe Cyberland mit^^gegeneinander. Die gr&#246;&#223;ten Auswirkungen auf KRITIS und die Ethik gewinnen! Oder warum wir eine defensive Cybersicherheitsstrategie im Bev&#246;lkerungsgesellschaftsspielfeld haben wollen&#8230;</abstract>
+                <description>Die W&#252;rfel im Cyberquartett &#8222;IT-Sicherheitsgesetz&#8220; sind gefallen: neun! So viele Sektoren gibt es als kritische Infrastrukturen im Cyberquartett. Darunter fallen Energieversorgung, Finanz- und Versicherungswesen, Wasser, Ern&#228;hrung, Gesundheit, IT und TK, Transport und Verkehr.
+
+Spielt ein Land den Hackback-Joker aus, erleidet der andere Spieler einen Versorgungsausfall, der zu einem Gro&#223;lagebild oder sogar zu einer Krise f&#252;hren kann, in der die Versorgung eines gro&#223;en Teils der Gesellschaft(sspieler) nicht mehr gew&#228;hrleistet werden k&#246;nnte.
+
+Setzten einige Staaten alles auf eine Karte durch offensive Cyberwar- und Hackback-Vorgehensweisen als auch mittels hybrider Kriegsf&#252;hrung?
+
+Droht dann der Spielverlust und warum bedeutet das dann f&#252;r die Bev&#246;lkerung &#8222;Gehe direkt ins Gef&#228;ngnis, gehe nicht &#252;ber Los, ziehe keine 4.000,- &#8364; ein&#8220;? Warum kann es bei allen vier Bahnh&#246;fen und dem Elektrizit&#228;ts- und Wasserwerk zu physischen IT-St&#246;rungen und Ausf&#228;llen kommen? Welche Spielregeln sind im Cybermonopoly aufzustellen, um von offensiven zur&#252;ck zu defensiven Besitzrechten zur&#252;ck zu kommen. Und wieso liegt darin eigentlich der einzig wahre Spielsieg f&#252;r die Bev&#246;lkerung?
+
+M&#246;gen die Spiele beginnen&#8230;</description>
+                <logo>/media/2019/images/CNRWVN/monopoly-KRITIS_91fU0DE.jpg</logo>
+                <persons>
+                    <person id='189'>HonkHase</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='9f167527-1e5f-5b83-ba51-3f76e2a940f0' id='213'>
+                <date>2019-09-15T13:20:00+02:00</date>
+                <start>13:20</start>
+                <duration>00:50</duration>
+                <room>Schlossallee</room>
+                <slug>2019-213-gesellschaftsspiel-dsgvo</slug>
+                <url>https://talks.mrmcd.net/2019/talk/QRUYMX/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Gesellschaftsspiel DSGVO</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Die DSGVO sucht Mitspieler! Wir erkl&#228;ren euch die Spielregeln: wie man Anfragen richtig stellt, die Datenschutzbeauftragten einschaltet und eine Klage einreicht.
+Dazu haben die Spielmeister schon Punkte gesammelt mit &#252;ber 100 *Artikel-15* Anfragen, 10 *Artikel-77*Beschwerden und 4 *Artikel-79-Klagen* eingereicht.</abstract>
+                <description>Um euch das Leben leichter zu machen, haben wir einen Workflow und ein Tool, um Anfragen zu generieren erstellt und zeigen euch, wie ihr mit den Gegenspielern umgeht, was ihr gegen Cheater tut, und wie ihr das Spiel gewinnt.
+
+Spieler 1 (Andreas Diehl) ist Informatiker, Datensch&#252;tzer aus Leidenschaft, und betreibt selbst eine kleine IT-Firma.
+Spielerin 2 (Ramona Weik) ist Juristin, forscht auf dem Gebiet der Auslegung der DSGVO und der Teilautomatisierung der Anfragen
+
+Wir w&#252;rden gerne einem breiteren Publikum zeigen, wie man mit nicht oder falsch
+erf&#252;llten DSGVO-Anfragen zu Auskunft und L&#246;schung umgeht, wie man sich die Hilfe
+von Datenschutzbeauftragten verschafft und was man schreiben muss, um das ganze
+notfalls gerichtlich durchzusetzen.
+
+Dazu k&#246;nnen wir viele Beispiele anhand von unseren Anfragen und zum Teil auch
+Gerichtsverfahren liefern (und auch zeigen, wie man den Gerichten erkl&#228;rt, wie
+sie die DSGVO auszulegen haben).
+
+Tool zum Stellen von Anfragen: [HDGDLDSGVO](https://adiehl.github.io/dsgvo) ([source](https://github.com/adiehl/hdgdldsgvo))</description>
+                <logo>/media/2019/images/QRUYMX/datenschutz.jpg</logo>
+                <persons>
+                    <person id='181'>Andreas Diehl</person><person id='183'>Ramona Weik</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='0d0d5c19-0f82-5524-aaa1-d28230fb9048' id='195'>
+                <date>2019-09-15T14:20:00+02:00</date>
+                <start>14:20</start>
+                <duration>00:30</duration>
+                <room>Schlossallee</room>
+                <slug>2019-195-politik-und-opensource-brettspiele-</slug>
+                <url>https://talks.mrmcd.net/2019/talk/KWEAX7/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Politik und OpenSource &quot;Brettspiele&quot;</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Ein kleiner &#220;berblick warum (meiner Meinung nach) OpenSource Hardware bei weitem nicht so weit verbreitet ist wie OpenSource Software.</abstract>
+                <description>Kaum hat mein ein elektronisches Ger&#228;t/eine Platine entwickelt, kommt man &quot;nat&#252;rlich&quot; auf die Idee das Ergebnis zu Teilen.
+Bei Hardware ist das aus organisatorischen und regulatorischen Gr&#252;nden jedoch deutlich schwieriger verglichen mit Software. Diese m&#246;chte ich gerne Anrei&#223;en und Diskutieren.</description>
+                <logo></logo>
+                <persons>
+                    <person id='25'>Johannes Formann</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='d21c048c-ff08-5483-af93-a32b0e13fe48' id='217'>
+                <date>2019-09-15T15:30:00+02:00</date>
+                <start>15:30</start>
+                <duration>00:45</duration>
+                <room>Schlossallee</room>
+                <slug>2019-217-haus</slug>
+                <url>https://talks.mrmcd.net/2019/talk/ZLX8NW/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Haus</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>en</language>
+                <abstract>Closing</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='186'>Team MRMCD</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        <room name='Parkstrasse'>
+            <event guid='cc76e6dd-0c1b-5686-a3c3-858c6d7d27e3' id='201'>
+                <date>2019-09-15T12:20:00+02:00</date>
+                <start>12:20</start>
+                <duration>00:50</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-201-achieving-a-decentralised-yet-central-backbone-with-as64475</slug>
+                <url>https://talks.mrmcd.net/2019/talk/RZPYCL/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Achieving a decentralised yet central backbone with AS64475</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Bei Freifunk Frankfurt hat sich in den letzten Jahren einiges getan: 
+Statt unser Netz nur &#252;ber gemietete Server zu verbinden, haben wir jetzt eigene Hardware in mehreren Rechenzentren und ein Autonomes System, mit dem wir direkt an die zentralen Punkte des Internets angebunden sind. 
+
+Den Weg dahin und unsere Ideen f&#252;r die Zukunft wollen wir euch hier vorstellen.</abstract>
+                <description></description>
+                <logo></logo>
+                <persons>
+                    <person id='105'>Skorpy</person><person id='176'>margau</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='abf66e62-0ad5-5cf1-bb6a-a15b95f0800b' id='180'>
+                <date>2019-09-15T13:20:00+02:00</date>
+                <start>13:20</start>
+                <duration>00:50</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-180-moderne-kryptografie-in-drahtlosen-netzwerken-gsm-umts-lte-wimax-tetra-wifi-</slug>
+                <url>https://talks.mrmcd.net/2019/talk/J8LDXK/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>Moderne Kryptografie  in drahtlosen Netzwerken (GSM, UMTS, LTE, WIMAX, TETRA, WIFI)</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>Was ist moderne Kryptografie, Wie arbeiten Kryptologen heute, Wie wird was in drahtlosen Netzen chiffriert, ggf. Angriffsm&#246;glichkeiten  &amp;
+Tipps f&#252;r sichere mobile Kommunikation</abstract>
+                <description>Von security zu obscurity zu open-source cryptography nach dem kerckhoffschen Prinzip anhand von KASUMI, Zero Knowlegde und Challenge Response Verfahren. Kryptologen = Alchimisten der Moderne oder rationale Wissenschaftler. Vom GMS zu 5G wie siocher sind mobile Netze wo liegen die Schwachstellen (SS7 Protokoll warum das so ein  gro&#223;es Ding ist) Welche Daten werden wann wie wie verschl&#252;sselt. Sichere Ende zu Ende Verschl&#252;sselung mit OTR und ZRTG</description>
+                <logo>/media/2019/images/J8LDXK/fieldstation.jpg</logo>
+                <persons>
+                    <person id='161'>Uli Kleemann</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            <event guid='0d9112f3-d8b0-5cf3-adf0-842be6380d20' id='196'>
+                <date>2019-09-15T14:20:00+02:00</date>
+                <start>14:20</start>
+                <duration>00:50</duration>
+                <room>Parkstrasse</room>
+                <slug>2019-196--dir-das-paranoide-iam-fr-devops</slug>
+                <url>https://talks.mrmcd.net/2019/talk/VU7SC8/</url>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <title>&#198;-DIR - das paranoide IAM f&#252;r DevOps</title>
+                <subtitle></subtitle>
+                <track></track>
+                <type>Talk</type>
+                <language>de</language>
+                <abstract>[&#198;-DIR](https://www.ae-dir.com) ist ein Identity &amp; Access Management, welches die Prinzipien Need-to-Know- und Least-Privilege ernst nimmt.</abstract>
+                <description>[&#198;-DIR](https://www.ae-dir.com) ist ein paranoides Identity &amp; Access Management basierend auf
+OpenLDAP.
+
+Im Gegensatz zu anderen LDAP-Servern muss f&#252;r an &#198;-DIR angeschlossene Systeme die Sichtbarkeit von Benutzern und Gruppen immer explizit (zweckgebunden) erlaubt werden. Dies erfolgt rein &#252;ber Datenpflege im LDAP-Server.
+
+LDAP-f&#228;hige Anwendungen m&#252;ssen auch dank Schemakompabilit&#228;t nicht speziell f&#252;r &#198;-DIR angepasst werden. Ein f&#252;r &#198;-DIR angepasster NSS-/PAM-Dienst [aehostd](https://www.ae-dir.com/aehostd.html) erm&#246;glicht die automatisierte Integration und performante Nutzung auch in grossen Server-Umgebungen.
+
+Zudem wird die Administration auf mehreren Ebenen an kleine Benutzergruppen delegiert, um zu m&#228;chtige Stellvertreter-Rollen zu vermeiden. Dies macht auch Genehmigungsprozesse &#252;berfl&#252;ssig. Strikte Vorgaben im System dienen der langfristigen Auditierbarkeit und somit als Grundlage f&#252;r detaillierte Compliance-Pr&#252;fungen.
+
+Durch Status&#228;nderung auf &quot;archiviert&quot; kann dabei die Sichtbarkeit von Eintr&#228;gen sehr stark eingeschr&#228;nkt werden, um trotz der langfristigen Speicherung von Benutzerdaten (z.B. wg. GOB/GdPdU) ausreichenden Datenschutz (DSGVO) zu gew&#228;hrleisten.</description>
+                <logo></logo>
+                <persons>
+                    <person id='173'>Michael Str&#246;der</person>
+                </persons>
+                <links></links>
+                <attachments></attachments>
+            </event>
+            
+        </room>
+        
+    </day>
+    
+</schedule>
